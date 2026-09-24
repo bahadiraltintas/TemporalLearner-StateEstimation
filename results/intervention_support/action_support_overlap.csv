@@ -1,0 +1,6 @@
+activity,training_observations,test_candidate_states,minmax_outside_n,minmax_outside_pct,nn95_threshold,nn_outside_n,nn_outside_pct,median_nearest_neighbor_distance
+Concept Review,100,200,37,18.5,3.8097316267054664,28,14.000000000000002,3.2306779232897584
+Practice Questions,116,200,59,29.5,3.825656773965309,21,10.5,3.2268807837749414
+Application Exercise,125,200,59,29.5,4.003339178104547,22,11.0,3.415080388053145
+Critical Thinking Activity,196,200,46,23.0,3.9407187422536043,25,12.5,3.399252912229085
+Advanced Practice,261,200,45,22.5,3.968442110321117,31,15.5,3.4712943065388373

@@ -1,0 +1,2 @@
+n_test_students,cycles,adaptive_mean_final_cumulative_gain,static_mean_final_cumulative_gain,mean_difference,sd_difference,adaptive_better_pct,equal_pct,adaptive_worse_pct,mean_number_of_recommendation_changes,initial_to_final_change_pct
+200,10,978.0881843175233,977.9872578013915,0.10092651613169167,1.3351494552142331,10.5,87.0,2.5,0.225,11.5

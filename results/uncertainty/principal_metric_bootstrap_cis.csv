@@ -1,0 +1,28 @@
+analysis,model_or_step,metric,estimate,ci_low,ci_high,bootstrap_method,n_bootstrap,seed
+final_grade,Lasso,MAE,4.19801224489383,3.7599369763225585,4.653095428922653,student-level percentile bootstrap,1000,42042
+final_grade,Lasso,RMSE,5.267866402666098,4.774912222579629,5.767230757603107,student-level percentile bootstrap,1000,42042
+final_grade,Lasso,R2,0.9051577064868566,0.8773028432257083,0.9247391839749316,student-level percentile bootstrap,1000,42042
+final_grade,Ridge,MAE,4.213913425713213,3.778441628728913,4.66252849410102,student-level percentile bootstrap,1000,42042
+final_grade,Ridge,RMSE,5.281768640583941,4.783918326661169,5.797072545364609,student-level percentile bootstrap,1000,42042
+final_grade,Ridge,R2,0.9046564561293701,0.8769549744845562,0.9247296857315417,student-level percentile bootstrap,1000,42042
+final_grade,Linear Regression,MAE,4.215362473408039,3.780053658419637,4.663190833318453,student-level percentile bootstrap,1000,42042
+final_grade,Linear Regression,RMSE,5.28302311721731,4.785387595038104,5.79798320235025,student-level percentile bootstrap,1000,42042
+final_grade,Linear Regression,R2,0.9046111605248288,0.8769623183739826,0.9246389286614183,student-level percentile bootstrap,1000,42042
+ablation_R2_difference,step_1,R2_increment,0.010336205122392073,0.0008773655619211591,0.020224494501170375,paired student-level percentile bootstrap,1000,42042
+ablation_R2_difference,step_2,R2_increment,0.005862662104617313,-0.0005609666145129172,0.01229128646493751,paired student-level percentile bootstrap,1000,42042
+ablation_R2_difference,step_3,R2_increment,0.000753184393944857,-0.001951140874680482,0.0031875778963883273,paired student-level percentile bootstrap,1000,42042
+regression_R2_difference,Lasso minus Ridge,R2_difference,0.000503917412201495,-0.00011444027348847252,0.0011274361221110306,paired student-level percentile bootstrap,1000,42042
+regression_R2_difference,Lasso minus Linear Regression,R2_difference,0.000549568888624434,-0.00013265808195385144,0.001226036614606446,paired student-level percentile bootstrap,1000,42042
+regression_R2_difference,Ridge minus Linear Regression,R2_difference,4.565147642293898e-05,-4.3112466390252126e-05,0.00013293047452831718,paired student-level percentile bootstrap,1000,42042
+risk,SVM,accuracy,0.955,0.925,0.9801249999999999,student-level percentile bootstrap,1000,42042
+risk,SVM,macro_F1,0.8603829708124185,0.6301363650676537,0.9828463549682368,student-level percentile bootstrap,1000,42042
+risk,SVM,balanced_accuracy,0.8121106765174563,0.6405772660253042,0.9861116296849443,student-level percentile bootstrap,1000,42042
+risk,Balanced Logistic Regression,accuracy,0.945,0.915,0.975,student-level percentile bootstrap,1000,42042
+risk,Balanced Logistic Regression,macro_F1,0.8165095940738375,0.6373471671573075,0.9400347893966677,student-level percentile bootstrap,1000,42042
+risk,Balanced Logistic Regression,balanced_accuracy,0.8811748515138346,0.6439325174315331,0.9800286740129186,student-level percentile bootstrap,1000,42042
+topic,Logistic Regression,accuracy,0.885,0.835,0.925125,student-level percentile bootstrap,1000,42042
+topic,Logistic Regression,macro_F1,0.8749589612223868,0.8162638306784975,0.9207057763125276,student-level percentile bootstrap,1000,42042
+topic,Logistic Regression,balanced_accuracy,0.876067101584343,0.8222549187940207,0.9250868622813819,student-level percentile bootstrap,1000,42042
+recommendation,Logistic Regression,accuracy,0.9,0.855,0.94,student-level percentile bootstrap,1000,42042
+recommendation,Logistic Regression,macro_F1,0.8520500667793446,0.7115103539645252,0.9318324850683545,student-level percentile bootstrap,1000,42042
+recommendation,Logistic Regression,balanced_accuracy,0.9088159588159588,0.8528562972794919,0.9451459164990941,student-level percentile bootstrap,1000,42042

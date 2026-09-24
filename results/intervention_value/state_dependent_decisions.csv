@@ -1,0 +1,1001 @@
+student_id,selected_activity,selected_estimated_gain,observed_activity,observed_gain,selection_matches_observed_policy
+10001,Application Exercise,4.232146314578449,Advanced Practice,0.89,False
+10002,Application Exercise,6.196730124308742,Practice Questions,5.57,False
+10003,Application Exercise,6.282218158750334,Practice Questions,2.87,False
+10004,Application Exercise,5.461193315559658,Critical Thinking Activity,4.6,False
+10005,Application Exercise,1.8663614739939762,Advanced Practice,1.88,False
+10006,Application Exercise,3.5298357225561374,Practice Questions,5.84,False
+10007,Advanced Practice,6.44470641715239,Critical Thinking Activity,3.87,False
+10008,Application Exercise,3.8822272729959315,Advanced Practice,2.15,False
+10009,Advanced Practice,4.944648973095446,Application Exercise,5.89,False
+10010,Application Exercise,4.4058289388598375,Critical Thinking Activity,3.63,False
+10011,Application Exercise,3.318850773368046,Advanced Practice,2.59,False
+10012,Application Exercise,4.536933246705963,Advanced Practice,2.74,False
+10013,Application Exercise,3.7946215686796263,Advanced Practice,2.03,False
+10014,Application Exercise,4.8344577431070235,Critical Thinking Activity,5.87,False
+10015,Application Exercise,4.289430899325638,Application Exercise,3.95,True
+10016,Application Exercise,2.716122496970798,Application Exercise,2.63,True
+10017,Application Exercise,4.429592440234933,Critical Thinking Activity,3.12,False
+10018,Critical Thinking Activity,3.1669955103590883,Advanced Practice,1.19,False
+10019,Critical Thinking Activity,4.576873029915702,Concept Review,5.94,False
+10020,Application Exercise,5.458247887476045,Application Exercise,6.03,True
+10021,Application Exercise,5.129095536354088,Advanced Practice,7.17,False
+10022,Application Exercise,3.3914048947168425,Critical Thinking Activity,1.42,False
+10023,Application Exercise,5.0688765937448155,Critical Thinking Activity,5.71,False
+10024,Critical Thinking Activity,6.606456087943777,Application Exercise,4.44,False
+10025,Application Exercise,3.370224253699811,Advanced Practice,2.64,False
+10026,Application Exercise,6.332673482697629,Critical Thinking Activity,7.24,False
+10027,Application Exercise,2.0635636517250724,Advanced Practice,0.0,False
+10028,Application Exercise,5.81613199618646,Concept Review,5.29,False
+10029,Advanced Practice,4.863983244345938,Advanced Practice,4.07,True
+10030,Application Exercise,3.9345326533472393,Concept Review,2.03,False
+10031,Critical Thinking Activity,3.3981538309611903,Critical Thinking Activity,3.55,True
+10032,Application Exercise,4.823061413952507,Critical Thinking Activity,6.24,False
+10033,Application Exercise,3.278674001166813,Critical Thinking Activity,2.28,False
+10034,Application Exercise,3.501899365142175,Advanced Practice,3.36,False
+10035,Application Exercise,5.229307615326161,Critical Thinking Activity,4.43,False
+10036,Application Exercise,4.654934631449801,Advanced Practice,3.61,False
+10037,Advanced Practice,4.307340538698664,Critical Thinking Activity,2.67,False
+10038,Application Exercise,5.027049979864968,Critical Thinking Activity,6.64,False
+10039,Application Exercise,6.335302075829296,Critical Thinking Activity,5.63,False
+10040,Application Exercise,5.092169410486102,Critical Thinking Activity,4.51,False
+10041,Application Exercise,4.603402437106756,Critical Thinking Activity,2.79,False
+10042,Application Exercise,5.119143642456493,Application Exercise,4.19,True
+10043,Application Exercise,3.2380769671786798,Critical Thinking Activity,1.65,False
+10044,Application Exercise,3.373300442270901,Advanced Practice,0.75,False
+10045,Critical Thinking Activity,5.185893318942441,Concept Review,2.61,False
+10046,Application Exercise,3.6441518428082276,Advanced Practice,2.52,False
+10047,Advanced Practice,2.7376238268558115,Advanced Practice,3.62,True
+10048,Application Exercise,4.713605515825652,Advanced Practice,2.72,False
+10049,Application Exercise,3.6063347542343713,Advanced Practice,1.3,False
+10050,Application Exercise,4.4462676370750085,Advanced Practice,2.52,False
+10051,Application Exercise,4.241136366541558,Advanced Practice,1.91,False
+10052,Application Exercise,3.622271543433949,Advanced Practice,1.63,False
+10053,Application Exercise,5.20071208003457,Advanced Practice,7.39,False
+10054,Application Exercise,4.6029368731821,Application Exercise,5.12,True
+10055,Application Exercise,4.966583096534528,Advanced Practice,6.08,False
+10056,Advanced Practice,6.178154841016658,Application Exercise,7.66,False
+10057,Application Exercise,5.842159531320041,Practice Questions,3.26,False
+10058,Critical Thinking Activity,3.8375227799003855,Practice Questions,1.74,False
+10059,Advanced Practice,4.059095289422844,Application Exercise,2.0,False
+10060,Application Exercise,6.242123614539615,Critical Thinking Activity,7.52,False
+10061,Application Exercise,3.841884607300234,Advanced Practice,1.97,False
+10062,Application Exercise,3.2971829428087163,Concept Review,0.27,False
+10063,Application Exercise,4.937103427251094,Practice Questions,3.44,False
+10064,Application Exercise,6.699612895708405,Practice Questions,5.21,False
+10065,Application Exercise,3.5713306551133277,Critical Thinking Activity,3.47,False
+10066,Application Exercise,3.7809391632763067,Advanced Practice,2.93,False
+10067,Application Exercise,6.306812316634941,Practice Questions,4.09,False
+10068,Application Exercise,3.619057277236102,Critical Thinking Activity,4.31,False
+10069,Concept Review,5.563455869974161,Advanced Practice,4.36,False
+10070,Application Exercise,2.127601264793721,Application Exercise,1.41,True
+10071,Application Exercise,6.231474884127825,Critical Thinking Activity,5.67,False
+10072,Application Exercise,5.456199312429204,Advanced Practice,3.24,False
+10073,Concept Review,4.447577621192159,Practice Questions,3.4,False
+10074,Application Exercise,4.604973725097576,Critical Thinking Activity,5.2,False
+10075,Application Exercise,4.201638963886824,Concept Review,2.37,False
+10076,Critical Thinking Activity,4.79635745819594,Practice Questions,3.68,False
+10077,Application Exercise,3.8147283618329206,Advanced Practice,4.38,False
+10078,Application Exercise,4.759802226144146,Application Exercise,6.91,True
+10079,Application Exercise,4.221026889651187,Critical Thinking Activity,4.1,False
+10080,Application Exercise,2.2829635328439775,Application Exercise,2.6,True
+10081,Application Exercise,4.6609625426067804,Application Exercise,5.05,True
+10082,Application Exercise,4.179618730446084,Practice Questions,1.6,False
+10083,Application Exercise,4.8929632566977155,Critical Thinking Activity,4.11,False
+10084,Application Exercise,4.6809535213414515,Advanced Practice,3.47,False
+10085,Concept Review,5.022927581759312,Advanced Practice,4.58,False
+10086,Critical Thinking Activity,2.9888237625138707,Advanced Practice,3.24,False
+10087,Application Exercise,4.818719112184794,Practice Questions,4.31,False
+10088,Critical Thinking Activity,5.5899467416184905,Critical Thinking Activity,5.12,True
+10089,Application Exercise,3.465869860497505,Advanced Practice,3.4,False
+10090,Concept Review,4.706205885483627,Practice Questions,2.75,False
+10091,Application Exercise,7.350213422644064,Practice Questions,5.63,False
+10092,Application Exercise,3.412536728962806,Critical Thinking Activity,5.2,False
+10093,Concept Review,5.192648913718946,Concept Review,5.45,True
+10094,Application Exercise,4.928527837277599,Concept Review,4.75,False
+10095,Application Exercise,3.988547927432038,Advanced Practice,5.78,False
+10096,Application Exercise,6.556713964010989,Critical Thinking Activity,3.42,False
+10097,Application Exercise,6.220111261835417,Concept Review,4.17,False
+10098,Application Exercise,5.273540839380879,Concept Review,7.87,False
+10099,Application Exercise,5.46694794368338,Critical Thinking Activity,4.98,False
+10100,Application Exercise,4.985999406686467,Critical Thinking Activity,4.37,False
+10101,Advanced Practice,3.1500381232216803,Application Exercise,1.63,False
+10102,Application Exercise,5.637484927717813,Advanced Practice,4.93,False
+10103,Critical Thinking Activity,5.612088920364477,Critical Thinking Activity,6.52,True
+10104,Application Exercise,6.192591656594208,Advanced Practice,3.21,False
+10105,Concept Review,5.556428835959987,Concept Review,5.08,True
+10106,Application Exercise,5.776375776825326,Practice Questions,4.83,False
+10107,Application Exercise,5.455305834466152,Critical Thinking Activity,4.71,False
+10108,Application Exercise,4.884276836743334,Critical Thinking Activity,3.09,False
+10109,Advanced Practice,4.688284314167441,Application Exercise,6.42,False
+10110,Concept Review,4.164048391900508,Application Exercise,5.66,False
+10111,Practice Questions,3.785526524095042,Critical Thinking Activity,2.59,False
+10112,Application Exercise,5.690406193487518,Critical Thinking Activity,4.41,False
+10113,Concept Review,4.423590886538728,Concept Review,3.99,True
+10114,Application Exercise,5.273176005781371,Application Exercise,3.43,True
+10115,Application Exercise,2.50002407505925,Advanced Practice,1.04,False
+10116,Application Exercise,5.065138033728061,Practice Questions,4.07,False
+10117,Application Exercise,5.464602272826426,Advanced Practice,6.5,False
+10118,Application Exercise,1.8191752416577014,Advanced Practice,2.5,False
+10119,Application Exercise,4.950643899624508,Critical Thinking Activity,6.07,False
+10120,Concept Review,3.5357873077576656,Practice Questions,3.39,False
+10121,Advanced Practice,6.832146565315915,Concept Review,5.04,False
+10122,Application Exercise,6.509028773886297,Concept Review,6.26,False
+10123,Application Exercise,5.34350152027897,Practice Questions,5.55,False
+10124,Advanced Practice,3.802279256416278,Application Exercise,1.92,False
+10125,Application Exercise,6.837880632918697,Concept Review,7.69,False
+10126,Application Exercise,6.04273922435553,Application Exercise,8.85,True
+10127,Application Exercise,1.8694715983821095,Advanced Practice,3.06,False
+10128,Application Exercise,4.657449528936855,Advanced Practice,5.9,False
+10129,Application Exercise,5.211419627476516,Concept Review,5.45,False
+10130,Application Exercise,3.8572758057848637,Critical Thinking Activity,4.57,False
+10131,Application Exercise,5.228257375416037,Concept Review,4.09,False
+10132,Application Exercise,6.147175532783819,Application Exercise,6.83,True
+10133,Application Exercise,3.380823255086228,Critical Thinking Activity,3.23,False
+10134,Application Exercise,3.15487218856536,Advanced Practice,2.49,False
+10135,Concept Review,5.39946432126933,Critical Thinking Activity,6.91,False
+10136,Application Exercise,4.167954356686423,Concept Review,3.21,False
+10137,Application Exercise,3.470559469298344,Advanced Practice,2.1,False
+10138,Application Exercise,5.1443241056458575,Advanced Practice,3.37,False
+10139,Application Exercise,7.333968731228355,Concept Review,5.23,False
+10140,Application Exercise,4.694712710858543,Advanced Practice,3.78,False
+10141,Application Exercise,3.55842163076184,Practice Questions,0.0,False
+10142,Application Exercise,4.206166565095578,Advanced Practice,4.84,False
+10143,Advanced Practice,3.2660799675241554,Concept Review,3.38,False
+10144,Application Exercise,4.258736030326461,Advanced Practice,2.76,False
+10145,Application Exercise,4.218158243925362,Advanced Practice,1.85,False
+10146,Critical Thinking Activity,5.0497613760864475,Concept Review,4.39,False
+10147,Application Exercise,3.9484309454537523,Application Exercise,4.71,True
+10148,Concept Review,5.2680455265481,Critical Thinking Activity,5.92,False
+10149,Advanced Practice,1.3261447795300323,Application Exercise,0.53,False
+10150,Application Exercise,3.5594788524171532,Critical Thinking Activity,1.81,False
+10151,Application Exercise,3.3397171722157957,Advanced Practice,3.63,False
+10152,Application Exercise,4.508514342374009,Practice Questions,2.27,False
+10153,Application Exercise,5.953602364343867,Advanced Practice,4.39,False
+10154,Application Exercise,3.6286171719673197,Practice Questions,3.03,False
+10155,Application Exercise,5.485760472609531,Advanced Practice,5.62,False
+10156,Concept Review,4.784239096878886,Advanced Practice,5.79,False
+10157,Critical Thinking Activity,4.643802680704239,Application Exercise,2.42,False
+10158,Application Exercise,4.6744525742643015,Critical Thinking Activity,0.99,False
+10159,Practice Questions,3.2400751705822284,Advanced Practice,2.05,False
+10160,Application Exercise,1.9125687263073146,Critical Thinking Activity,4.53,False
+10161,Application Exercise,3.4168952388244898,Application Exercise,5.89,True
+10162,Concept Review,6.865571587752686,Concept Review,8.99,True
+10163,Application Exercise,4.459729916645064,Practice Questions,2.67,False
+10164,Advanced Practice,3.749542734830405,Application Exercise,1.22,False
+10165,Critical Thinking Activity,3.6402087122399673,Application Exercise,0.0,False
+10166,Application Exercise,4.183786498575365,Advanced Practice,2.1,False
+10167,Application Exercise,5.211432047799876,Advanced Practice,3.76,False
+10168,Concept Review,5.104512960836297,Application Exercise,6.78,False
+10169,Critical Thinking Activity,3.6741890006001063,Critical Thinking Activity,4.67,True
+10170,Application Exercise,5.4465067495076855,Practice Questions,4.9,False
+10171,Critical Thinking Activity,2.4883043709109796,Concept Review,0.79,False
+10172,Application Exercise,5.622526642690609,Critical Thinking Activity,3.82,False
+10173,Advanced Practice,4.078682895629875,Critical Thinking Activity,4.08,False
+10174,Application Exercise,3.3500362051478527,Concept Review,4.5,False
+10175,Application Exercise,5.839355777235712,Advanced Practice,4.49,False
+10176,Critical Thinking Activity,2.6674772289236466,Practice Questions,0.8,False
+10177,Application Exercise,3.5458302923282425,Advanced Practice,3.81,False
+10178,Application Exercise,2.9548308466276136,Practice Questions,2.79,False
+10179,Application Exercise,1.3763614639988173,Advanced Practice,0.0,False
+10180,Concept Review,5.620211671700608,Practice Questions,3.98,False
+10181,Application Exercise,3.0313550733694163,Practice Questions,3.32,False
+10182,Advanced Practice,3.521173306581166,Advanced Practice,3.17,True
+10183,Application Exercise,1.4868403461208564,Advanced Practice,3.59,False
+10184,Critical Thinking Activity,3.704071967289296,Application Exercise,3.72,False
+10185,Application Exercise,5.60338423814919,Advanced Practice,3.67,False
+10186,Concept Review,4.009522605134802,Critical Thinking Activity,3.91,False
+10187,Concept Review,2.0822058993251122,Practice Questions,1.32,False
+10188,Application Exercise,3.7907315138688475,Advanced Practice,0.89,False
+10189,Application Exercise,6.106913037173165,Critical Thinking Activity,3.56,False
+10190,Critical Thinking Activity,3.1437256867776164,Application Exercise,4.19,False
+10191,Advanced Practice,3.5151476839767355,Advanced Practice,4.86,True
+10192,Application Exercise,2.8149628732114116,Advanced Practice,3.13,False
+10193,Application Exercise,3.10328215289023,Practice Questions,5.6,False
+10194,Application Exercise,5.9933629545566856,Practice Questions,4.11,False
+10195,Application Exercise,4.861944917984134,Advanced Practice,6.7,False
+10196,Application Exercise,2.924367158232169,Advanced Practice,1.21,False
+10197,Application Exercise,3.99485064394969,Concept Review,2.12,False
+10198,Application Exercise,2.935704178600897,Practice Questions,0.0,False
+10199,Application Exercise,4.461509629089189,Advanced Practice,3.0,False
+10200,Application Exercise,4.162075929897167,Advanced Practice,2.37,False
+10201,Application Exercise,4.970761517462086,Application Exercise,5.07,True
+10202,Application Exercise,2.8464489169762324,Concept Review,2.71,False
+10203,Advanced Practice,1.9971056746737643,Advanced Practice,0.0,True
+10204,Concept Review,4.695850219809038,Practice Questions,3.25,False
+10205,Application Exercise,3.901516285948758,Critical Thinking Activity,2.32,False
+10206,Critical Thinking Activity,3.857832926077771,Practice Questions,1.03,False
+10207,Application Exercise,3.0618602709246576,Concept Review,0.94,False
+10208,Advanced Practice,2.980798554748881,Application Exercise,1.72,False
+10209,Application Exercise,4.726154686435166,Practice Questions,5.69,False
+10210,Application Exercise,4.1729556584429,Practice Questions,2.94,False
+10211,Practice Questions,4.19772267566057,Advanced Practice,4.9,False
+10212,Practice Questions,1.8745990625163642,Advanced Practice,0.0,False
+10213,Application Exercise,5.651400404882931,Critical Thinking Activity,6.99,False
+10214,Application Exercise,5.690506587054653,Critical Thinking Activity,6.4,False
+10215,Application Exercise,4.346623239771376,Critical Thinking Activity,0.0,False
+10216,Critical Thinking Activity,4.272093788982396,Practice Questions,2.32,False
+10217,Application Exercise,4.688244666251528,Critical Thinking Activity,5.1,False
+10218,Application Exercise,3.4770627226459236,Advanced Practice,3.71,False
+10219,Critical Thinking Activity,3.2991248695857687,Application Exercise,2.47,False
+10220,Advanced Practice,3.6647452296105176,Critical Thinking Activity,3.42,False
+10221,Application Exercise,4.147234708148534,Critical Thinking Activity,2.83,False
+10222,Application Exercise,5.66985647554953,Critical Thinking Activity,4.68,False
+10223,Application Exercise,5.199933461991824,Critical Thinking Activity,6.63,False
+10224,Application Exercise,1.9974361846021178,Critical Thinking Activity,0.24,False
+10225,Application Exercise,4.043558039164353,Concept Review,5.0,False
+10226,Application Exercise,4.845598298959212,Critical Thinking Activity,3.72,False
+10227,Practice Questions,3.011177369304316,Advanced Practice,1.83,False
+10228,Application Exercise,4.423926457817716,Advanced Practice,4.41,False
+10229,Critical Thinking Activity,3.699041436841146,Critical Thinking Activity,4.9,True
+10230,Application Exercise,7.45425975149103,Concept Review,7.75,False
+10231,Application Exercise,5.605239437019347,Advanced Practice,1.96,False
+10232,Application Exercise,4.6155216560996415,Advanced Practice,3.39,False
+10233,Application Exercise,7.0627407743204085,Practice Questions,7.46,False
+10234,Application Exercise,5.288876657276904,Advanced Practice,4.18,False
+10235,Application Exercise,3.7592620715016425,Practice Questions,0.78,False
+10236,Application Exercise,2.754153815112563,Application Exercise,3.16,True
+10237,Application Exercise,6.843450074021137,Concept Review,5.63,False
+10238,Application Exercise,3.819810654273614,Concept Review,5.26,False
+10239,Application Exercise,2.7911512709225037,Advanced Practice,4.57,False
+10240,Application Exercise,4.312850270476186,Critical Thinking Activity,5.02,False
+10241,Critical Thinking Activity,7.070049699741676,Concept Review,8.75,False
+10242,Application Exercise,7.191929779828788,Critical Thinking Activity,6.25,False
+10243,Critical Thinking Activity,5.199424759330495,Concept Review,6.28,False
+10244,Application Exercise,3.4468461369742713,Advanced Practice,5.04,False
+10245,Application Exercise,4.064066721636302,Critical Thinking Activity,3.33,False
+10246,Application Exercise,3.295587423583471,Concept Review,2.75,False
+10247,Concept Review,7.152910034908209,Application Exercise,4.47,False
+10248,Application Exercise,1.5999882398558452,Practice Questions,0.77,False
+10249,Application Exercise,6.1894498395502975,Practice Questions,6.89,False
+10250,Application Exercise,3.8849878655599905,Application Exercise,4.87,True
+10251,Application Exercise,4.924424483571424,Advanced Practice,3.75,False
+10252,Application Exercise,2.8942457142516553,Critical Thinking Activity,1.96,False
+10253,Application Exercise,4.369639759381996,Practice Questions,0.56,False
+10254,Application Exercise,3.8963540696680257,Critical Thinking Activity,2.67,False
+10255,Advanced Practice,1.414573480197319,Application Exercise,1.01,False
+10256,Practice Questions,6.454472763594592,Practice Questions,5.49,True
+10257,Application Exercise,5.253718523361334,Concept Review,4.87,False
+10258,Application Exercise,4.477084359944677,Practice Questions,6.23,False
+10259,Application Exercise,5.70977067376952,Critical Thinking Activity,5.52,False
+10260,Application Exercise,5.465571188324736,Advanced Practice,5.06,False
+10261,Concept Review,3.118625047807198,Advanced Practice,2.3,False
+10262,Application Exercise,5.5694875317796875,Advanced Practice,5.24,False
+10263,Application Exercise,4.406571823670479,Advanced Practice,2.24,False
+10264,Application Exercise,5.163331298204948,Practice Questions,4.38,False
+10265,Application Exercise,3.756659784597317,Practice Questions,3.32,False
+10266,Application Exercise,4.826068286959668,Advanced Practice,4.37,False
+10267,Application Exercise,3.5949078080077284,Advanced Practice,3.51,False
+10268,Application Exercise,4.178529121139194,Practice Questions,4.46,False
+10269,Application Exercise,3.8135024825452652,Application Exercise,1.31,True
+10270,Advanced Practice,3.2302781467480113,Application Exercise,3.71,False
+10271,Application Exercise,4.035302425632595,Advanced Practice,2.75,False
+10272,Application Exercise,5.341861724996667,Critical Thinking Activity,2.29,False
+10273,Advanced Practice,4.478787503153573,Critical Thinking Activity,2.96,False
+10274,Critical Thinking Activity,5.907760979953495,Critical Thinking Activity,6.22,True
+10275,Practice Questions,3.3172359792889106,Practice Questions,3.15,True
+10276,Critical Thinking Activity,5.744031098346992,Application Exercise,3.46,False
+10277,Application Exercise,2.18119514095413,Practice Questions,2.36,False
+10278,Application Exercise,3.5393778623618584,Advanced Practice,0.59,False
+10279,Application Exercise,2.729099047683909,Advanced Practice,2.58,False
+10280,Application Exercise,6.07562934361775,Critical Thinking Activity,5.42,False
+10281,Concept Review,3.9243669087890876,Advanced Practice,4.9,False
+10282,Application Exercise,5.678776105679531,Practice Questions,6.44,False
+10283,Advanced Practice,1.6637079845225757,Advanced Practice,0.0,True
+10284,Application Exercise,4.303242747233387,Advanced Practice,3.54,False
+10285,Application Exercise,3.865537355334567,Practice Questions,2.14,False
+10286,Application Exercise,5.711497455588872,Advanced Practice,4.71,False
+10287,Application Exercise,2.5709133881862574,Practice Questions,1.53,False
+10288,Application Exercise,4.480595319865417,Advanced Practice,2.95,False
+10289,Application Exercise,2.111652559420346,Application Exercise,1.06,True
+10290,Application Exercise,4.363850221124604,Advanced Practice,1.28,False
+10291,Application Exercise,2.9982599547352433,Critical Thinking Activity,3.2,False
+10292,Application Exercise,5.441480333800008,Critical Thinking Activity,5.57,False
+10293,Application Exercise,4.552471912203214,Advanced Practice,5.44,False
+10294,Application Exercise,4.938017775675847,Critical Thinking Activity,4.22,False
+10295,Concept Review,4.524128343911077,Critical Thinking Activity,3.22,False
+10296,Advanced Practice,2.291909322721665,Critical Thinking Activity,0.3,False
+10297,Application Exercise,5.407179489399278,Advanced Practice,4.95,False
+10298,Application Exercise,2.325107590787441,Advanced Practice,0.4,False
+10299,Application Exercise,3.6859767298672717,Advanced Practice,6.0,False
+10300,Advanced Practice,7.126162589069201,Critical Thinking Activity,5.1,False
+10301,Application Exercise,3.6375606289626683,Critical Thinking Activity,3.82,False
+10302,Advanced Practice,4.927843249098023,Application Exercise,7.09,False
+10303,Application Exercise,5.3524262881317926,Advanced Practice,5.03,False
+10304,Application Exercise,4.494455714903273,Advanced Practice,3.94,False
+10305,Application Exercise,4.190057805878709,Advanced Practice,1.88,False
+10306,Application Exercise,3.9979949100169168,Critical Thinking Activity,1.79,False
+10307,Application Exercise,6.073511336339654,Advanced Practice,5.83,False
+10308,Application Exercise,3.767185156639809,Critical Thinking Activity,5.18,False
+10309,Application Exercise,6.6677472814885705,Advanced Practice,4.92,False
+10310,Application Exercise,4.415900348855933,Concept Review,2.66,False
+10311,Application Exercise,4.277871067768834,Concept Review,0.0,False
+10312,Application Exercise,1.6536052694281809,Concept Review,0.0,False
+10313,Application Exercise,5.6429383652369705,Concept Review,5.02,False
+10314,Application Exercise,3.836979698670362,Advanced Practice,5.72,False
+10315,Application Exercise,1.789969961198543,Advanced Practice,2.3,False
+10316,Application Exercise,5.334570842746951,Critical Thinking Activity,4.36,False
+10317,Application Exercise,6.401358362082362,Advanced Practice,3.82,False
+10318,Critical Thinking Activity,3.4209455945030975,Application Exercise,2.37,False
+10319,Critical Thinking Activity,2.991156867458421,Application Exercise,4.89,False
+10320,Application Exercise,6.014355484287588,Concept Review,5.83,False
+10321,Advanced Practice,4.054647358782885,Application Exercise,0.89,False
+10322,Concept Review,5.228550694426667,Practice Questions,4.02,False
+10323,Application Exercise,5.611774510099718,Advanced Practice,2.92,False
+10324,Critical Thinking Activity,4.911114320188512,Concept Review,4.14,False
+10325,Application Exercise,5.753390440943411,Practice Questions,6.8,False
+10326,Application Exercise,5.577381686394994,Critical Thinking Activity,4.86,False
+10327,Application Exercise,4.657497870282647,Advanced Practice,3.36,False
+10328,Application Exercise,2.56365202558733,Advanced Practice,4.46,False
+10329,Application Exercise,4.073536849133213,Application Exercise,2.74,True
+10330,Critical Thinking Activity,4.568969298790558,Concept Review,6.59,False
+10331,Application Exercise,5.710718461306095,Advanced Practice,3.26,False
+10332,Practice Questions,3.6592811828245657,Advanced Practice,3.68,False
+10333,Application Exercise,6.163243134743023,Critical Thinking Activity,3.63,False
+10334,Application Exercise,5.98756413399609,Critical Thinking Activity,5.08,False
+10335,Application Exercise,5.984253730414073,Advanced Practice,6.69,False
+10336,Concept Review,4.029014413489377,Advanced Practice,4.26,False
+10337,Application Exercise,5.060508347019663,Advanced Practice,3.18,False
+10338,Application Exercise,6.155526205216651,Critical Thinking Activity,4.06,False
+10339,Application Exercise,5.265096792635192,Critical Thinking Activity,7.96,False
+10340,Critical Thinking Activity,5.564999278358366,Application Exercise,4.67,False
+10341,Application Exercise,4.714605076176426,Advanced Practice,4.94,False
+10342,Critical Thinking Activity,2.7981581092867103,Concept Review,0.53,False
+10343,Application Exercise,2.9277271739055686,Practice Questions,1.76,False
+10344,Application Exercise,3.149408845706255,Advanced Practice,1.63,False
+10345,Application Exercise,4.386845026075189,Critical Thinking Activity,5.11,False
+10346,Application Exercise,5.84093911050582,Practice Questions,1.22,False
+10347,Concept Review,4.401839827704822,Advanced Practice,4.31,False
+10348,Application Exercise,2.167440062212281,Advanced Practice,0.13,False
+10349,Application Exercise,7.53204296115011,Advanced Practice,6.2,False
+10350,Application Exercise,4.465284951953545,Advanced Practice,2.1,False
+10351,Application Exercise,6.159181476198133,Critical Thinking Activity,3.05,False
+10352,Application Exercise,2.3494441264260626,Guided Review,1.0,False
+10353,Application Exercise,4.539306774051165,Critical Thinking Activity,2.33,False
+10354,Application Exercise,2.575412079017919,Advanced Practice,1.43,False
+10355,Application Exercise,5.330897104468503,Critical Thinking Activity,2.45,False
+10356,Application Exercise,4.867036596955915,Concept Review,1.32,False
+10357,Application Exercise,7.630581511482344,Concept Review,8.18,False
+10358,Application Exercise,5.162405430629356,Critical Thinking Activity,2.17,False
+10359,Application Exercise,4.759137171062584,Practice Questions,3.32,False
+10360,Critical Thinking Activity,4.168748278404645,Application Exercise,4.94,False
+10361,Critical Thinking Activity,4.469224881918536,Practice Questions,3.2,False
+10362,Concept Review,3.014757737678348,Practice Questions,1.41,False
+10363,Advanced Practice,5.82057747676492,Advanced Practice,6.04,True
+10364,Application Exercise,4.6297836397333825,Advanced Practice,4.98,False
+10365,Application Exercise,2.9311725946349387,Advanced Practice,0.79,False
+10366,Critical Thinking Activity,5.784484829852858,Concept Review,4.76,False
+10367,Application Exercise,3.002724668920063,Application Exercise,0.05,True
+10368,Application Exercise,5.610032187803075,Practice Questions,3.4,False
+10369,Application Exercise,4.303857763711934,Critical Thinking Activity,3.82,False
+10370,Application Exercise,4.871640905941657,Advanced Practice,2.99,False
+10371,Application Exercise,4.926394588706557,Advanced Practice,3.02,False
+10372,Application Exercise,2.786890357128927,Practice Questions,0.0,False
+10373,Application Exercise,5.197002786674524,Critical Thinking Activity,4.65,False
+10374,Concept Review,6.125365664436249,Critical Thinking Activity,7.81,False
+10375,Application Exercise,2.728359198483281,Critical Thinking Activity,1.0,False
+10376,Application Exercise,2.5171749951898,Practice Questions,1.42,False
+10377,Application Exercise,3.9413371030359423,Advanced Practice,3.53,False
+10378,Application Exercise,5.029938151324927,Critical Thinking Activity,6.47,False
+10379,Critical Thinking Activity,4.1814225031437715,Critical Thinking Activity,1.88,True
+10380,Application Exercise,5.535737507876576,Practice Questions,3.78,False
+10381,Application Exercise,7.044710161083276,Practice Questions,6.53,False
+10382,Application Exercise,4.907555049156491,Application Exercise,5.03,True
+10383,Application Exercise,7.10518517674689,Advanced Practice,2.09,False
+10384,Application Exercise,2.4932961202208572,Application Exercise,3.15,True
+10385,Application Exercise,7.281361551731923,Advanced Practice,7.83,False
+10386,Critical Thinking Activity,6.452269127482724,Concept Review,6.21,False
+10387,Application Exercise,7.676021399265104,Critical Thinking Activity,4.79,False
+10388,Critical Thinking Activity,2.956386723856548,Application Exercise,2.16,False
+10389,Application Exercise,4.446255069330746,Critical Thinking Activity,5.28,False
+10390,Application Exercise,3.081526412921647,Advanced Practice,2.96,False
+10391,Application Exercise,4.722694761558313,Application Exercise,4.88,True
+10392,Application Exercise,3.9872809547168275,Critical Thinking Activity,3.46,False
+10393,Advanced Practice,4.956394514298885,Critical Thinking Activity,4.15,False
+10394,Application Exercise,6.375034500148699,Concept Review,5.5,False
+10395,Advanced Practice,4.159995414770752,Critical Thinking Activity,3.97,False
+10396,Practice Questions,3.8494084879413197,Concept Review,4.72,False
+10397,Application Exercise,3.674758865478391,Concept Review,5.12,False
+10398,Application Exercise,6.6008983285032095,Advanced Practice,7.0,False
+10399,Application Exercise,2.1364713897397074,Application Exercise,0.0,True
+10400,Application Exercise,4.418466319757561,Advanced Practice,4.49,False
+10401,Application Exercise,3.229770585244638,Advanced Practice,4.18,False
+10402,Advanced Practice,4.2750201877048175,Application Exercise,5.36,False
+10403,Application Exercise,6.4752131418079495,Concept Review,5.23,False
+10404,Concept Review,3.9028549488822915,Concept Review,8.29,True
+10405,Application Exercise,3.0473162887739815,Advanced Practice,0.0,False
+10406,Advanced Practice,2.370730621597197,Critical Thinking Activity,0.6,False
+10407,Application Exercise,4.792425174139663,Advanced Practice,3.9,False
+10408,Application Exercise,7.036230794244332,Application Exercise,9.6,True
+10409,Application Exercise,3.505228102168192,Advanced Practice,1.51,False
+10410,Application Exercise,3.9719691357914355,Advanced Practice,2.63,False
+10411,Application Exercise,2.4103329397588347,Advanced Practice,3.94,False
+10412,Concept Review,2.768685185535997,Advanced Practice,2.76,False
+10413,Application Exercise,4.971388503086418,Application Exercise,4.11,True
+10414,Application Exercise,5.208689398772169,Practice Questions,5.42,False
+10415,Application Exercise,5.017334230808277,Practice Questions,4.76,False
+10416,Application Exercise,5.238524757183985,Practice Questions,5.35,False
+10417,Application Exercise,3.6257244284948507,Advanced Practice,4.38,False
+10418,Application Exercise,3.527379234421815,Application Exercise,2.97,True
+10419,Application Exercise,4.463346113239804,Critical Thinking Activity,3.62,False
+10420,Application Exercise,4.781216707564258,Practice Questions,4.55,False
+10421,Application Exercise,2.1046008957602695,Guided Review,1.81,False
+10422,Application Exercise,3.465671243036358,Advanced Practice,3.31,False
+10423,Application Exercise,4.201400384566281,Practice Questions,3.42,False
+10424,Advanced Practice,4.303449662234059,Application Exercise,6.2,False
+10425,Advanced Practice,6.667830356130225,Concept Review,8.61,False
+10426,Critical Thinking Activity,2.308718139970283,Advanced Practice,0.0,False
+10427,Application Exercise,3.8560715023363787,Advanced Practice,2.42,False
+10428,Application Exercise,5.700787915408533,Application Exercise,4.33,True
+10429,Application Exercise,2.9443009615498106,Advanced Practice,2.11,False
+10430,Application Exercise,4.769836106311715,Critical Thinking Activity,4.52,False
+10431,Application Exercise,4.472798801058592,Practice Questions,4.25,False
+10432,Application Exercise,4.009553228033922,Advanced Practice,3.69,False
+10433,Application Exercise,6.163046986823841,Critical Thinking Activity,3.31,False
+10434,Application Exercise,5.251756343887351,Critical Thinking Activity,3.35,False
+10435,Application Exercise,2.7940030284689974,Critical Thinking Activity,4.06,False
+10436,Practice Questions,2.7902896908251957,Application Exercise,0.0,False
+10437,Application Exercise,4.011884173032212,Application Exercise,5.22,True
+10438,Concept Review,1.014610072726327,Concept Review,1.35,True
+10439,Application Exercise,3.8474053676068705,Advanced Practice,5.21,False
+10440,Concept Review,6.329695964606914,Practice Questions,5.84,False
+10441,Application Exercise,5.917320022639233,Advanced Practice,1.51,False
+10442,Advanced Practice,3.9779310929825478,Critical Thinking Activity,4.3,False
+10443,Application Exercise,4.775188171519784,Advanced Practice,5.73,False
+10444,Application Exercise,3.225305966457542,Application Exercise,4.39,True
+10445,Application Exercise,5.133217489998466,Application Exercise,4.08,True
+10446,Application Exercise,4.907882599875954,Practice Questions,3.99,False
+10447,Application Exercise,3.7314757743629383,Critical Thinking Activity,0.78,False
+10448,Application Exercise,4.895699976971187,Practice Questions,2.31,False
+10449,Concept Review,6.14217025348,Practice Questions,7.15,False
+10450,Application Exercise,3.3998923879006915,Critical Thinking Activity,0.59,False
+10451,Advanced Practice,3.5887806987497366,Critical Thinking Activity,2.25,False
+10452,Application Exercise,6.019549830621688,Concept Review,3.91,False
+10453,Practice Questions,4.3637432414469846,Advanced Practice,2.17,False
+10454,Concept Review,4.820087561328959,Critical Thinking Activity,4.83,False
+10455,Application Exercise,3.6514723979346204,Advanced Practice,3.63,False
+10456,Application Exercise,5.166786414293416,Advanced Practice,3.69,False
+10457,Application Exercise,5.523295531675719,Advanced Practice,2.07,False
+10458,Application Exercise,4.4982392777429565,Advanced Practice,4.49,False
+10459,Application Exercise,4.309384040065868,Advanced Practice,6.42,False
+10460,Application Exercise,3.590797883647868,Advanced Practice,1.45,False
+10461,Application Exercise,7.091135200249886,Advanced Practice,4.95,False
+10462,Concept Review,5.310024595471005,Practice Questions,5.78,False
+10463,Application Exercise,4.60269506802783,Application Exercise,6.29,True
+10464,Application Exercise,3.4375172661665045,Application Exercise,2.46,True
+10465,Application Exercise,6.637016257697665,Advanced Practice,3.76,False
+10466,Application Exercise,4.121527778011068,Concept Review,4.19,False
+10467,Advanced Practice,3.2850017484503224,Practice Questions,4.2,False
+10468,Application Exercise,5.017400003404201,Advanced Practice,3.49,False
+10469,Application Exercise,3.1879430995548743,Advanced Practice,1.23,False
+10470,Application Exercise,4.355327699833061,Advanced Practice,4.42,False
+10471,Application Exercise,7.024543030003343,Advanced Practice,6.89,False
+10472,Practice Questions,3.920400996326283,Critical Thinking Activity,2.82,False
+10473,Advanced Practice,2.7484612142848937,Application Exercise,2.71,False
+10474,Advanced Practice,5.384032749222735,Application Exercise,3.44,False
+10475,Application Exercise,3.6956317231668816,Advanced Practice,3.85,False
+10476,Application Exercise,5.467027788736978,Advanced Practice,4.51,False
+10477,Application Exercise,3.6232988447892653,Practice Questions,1.78,False
+10478,Critical Thinking Activity,3.32062632162662,Application Exercise,3.15,False
+10479,Application Exercise,3.676855686184028,Application Exercise,2.84,True
+10480,Advanced Practice,6.087850427930543,Application Exercise,7.37,False
+10481,Advanced Practice,4.261833227582094,Practice Questions,5.07,False
+10482,Application Exercise,3.02216030174477,Advanced Practice,1.75,False
+10483,Application Exercise,4.735923958592906,Application Exercise,5.35,True
+10484,Application Exercise,6.7425207633509245,Advanced Practice,5.01,False
+10485,Application Exercise,5.567426072317217,Advanced Practice,3.75,False
+10486,Concept Review,3.2303653443909734,Advanced Practice,2.38,False
+10487,Application Exercise,4.073084420262896,Practice Questions,2.77,False
+10488,Critical Thinking Activity,1.9897543879012782,Practice Questions,2.24,False
+10489,Advanced Practice,5.720919855825313,Concept Review,4.96,False
+10490,Application Exercise,4.7667549757376655,Critical Thinking Activity,3.84,False
+10491,Advanced Practice,4.569092348783811,Application Exercise,7.42,False
+10492,Application Exercise,4.55621464133505,Critical Thinking Activity,6.25,False
+10493,Application Exercise,5.171536022421744,Advanced Practice,2.73,False
+10494,Application Exercise,4.737033389354069,Advanced Practice,4.79,False
+10495,Application Exercise,2.4432419822985665,Advanced Practice,1.25,False
+10496,Concept Review,6.351903541463738,Application Exercise,6.44,False
+10497,Application Exercise,3.6180568361087078,Practice Questions,3.24,False
+10498,Application Exercise,4.800313702387223,Application Exercise,6.33,True
+10499,Application Exercise,4.123975028195131,Advanced Practice,4.18,False
+10500,Application Exercise,4.718016114512384,Advanced Practice,3.64,False
+10501,Application Exercise,6.548161872428658,Critical Thinking Activity,7.48,False
+10502,Application Exercise,4.812605975305292,Critical Thinking Activity,4.28,False
+10503,Practice Questions,3.2111089566220916,Application Exercise,3.26,False
+10504,Application Exercise,4.976142935500388,Critical Thinking Activity,4.37,False
+10505,Practice Questions,2.1520953469050212,Practice Questions,2.01,True
+10506,Advanced Practice,3.1257683900687967,Advanced Practice,2.95,True
+10507,Critical Thinking Activity,6.7056607406615605,Concept Review,5.4,False
+10508,Concept Review,6.070277759748311,Critical Thinking Activity,4.72,False
+10509,Application Exercise,4.890225995195667,Practice Questions,2.16,False
+10510,Application Exercise,5.113659396748255,Practice Questions,2.29,False
+10511,Application Exercise,3.779174751919497,Advanced Practice,0.97,False
+10512,Concept Review,5.4908431657819055,Concept Review,5.47,True
+10513,Practice Questions,3.8591122307951724,Application Exercise,4.22,False
+10514,Advanced Practice,2.9896907970690956,Application Exercise,2.33,False
+10515,Application Exercise,5.457117840818452,Critical Thinking Activity,0.27,False
+10516,Advanced Practice,4.239589851586503,Advanced Practice,6.62,True
+10517,Application Exercise,5.227744564581404,Critical Thinking Activity,6.4,False
+10518,Application Exercise,1.9571753717210967,Critical Thinking Activity,1.97,False
+10519,Concept Review,7.2953635131756425,Advanced Practice,9.47,False
+10520,Advanced Practice,3.6403154788728496,Critical Thinking Activity,2.03,False
+10521,Application Exercise,4.548828951094025,Concept Review,7.18,False
+10522,Application Exercise,2.1136653104278884,Practice Questions,0.0,False
+10523,Application Exercise,4.002253325726256,Application Exercise,3.98,True
+10524,Concept Review,5.304965686216583,Critical Thinking Activity,3.2,False
+10525,Critical Thinking Activity,2.300062972253249,Advanced Practice,1.97,False
+10526,Application Exercise,3.7476563951788338,Concept Review,2.86,False
+10527,Critical Thinking Activity,4.895729603877378,Concept Review,4.59,False
+10528,Application Exercise,4.850795124899058,Application Exercise,5.34,True
+10529,Application Exercise,5.508956078133709,Advanced Practice,4.48,False
+10530,Critical Thinking Activity,3.319784891567153,Application Exercise,2.11,False
+10531,Application Exercise,2.9492812331927247,Advanced Practice,1.35,False
+10532,Application Exercise,6.999273750765109,Practice Questions,7.14,False
+10533,Application Exercise,5.139490534064616,Critical Thinking Activity,3.15,False
+10534,Concept Review,5.6359956168803045,Concept Review,6.66,True
+10535,Application Exercise,5.687562718508971,Practice Questions,6.67,False
+10536,Advanced Practice,5.555982212729917,Critical Thinking Activity,2.84,False
+10537,Application Exercise,5.531829186288626,Advanced Practice,5.16,False
+10538,Application Exercise,6.839861812810948,Critical Thinking Activity,9.19,False
+10539,Application Exercise,5.527933825405957,Practice Questions,4.21,False
+10540,Application Exercise,4.694404927542385,Critical Thinking Activity,4.93,False
+10541,Application Exercise,5.475004542981761,Application Exercise,6.48,True
+10542,Application Exercise,4.6747873505443005,Concept Review,4.12,False
+10543,Application Exercise,5.80314606349178,Advanced Practice,5.43,False
+10544,Practice Questions,2.7344231501111143,Application Exercise,1.04,False
+10545,Application Exercise,6.131302813947348,Critical Thinking Activity,5.58,False
+10546,Application Exercise,5.449009320771613,Critical Thinking Activity,5.21,False
+10547,Application Exercise,5.685905704467116,Critical Thinking Activity,5.59,False
+10548,Practice Questions,4.913440225532793,Advanced Practice,5.88,False
+10549,Application Exercise,3.7058720305870754,Advanced Practice,1.97,False
+10550,Application Exercise,2.7504184882888154,Advanced Practice,1.54,False
+10551,Application Exercise,3.8657790762270223,Advanced Practice,5.97,False
+10552,Application Exercise,3.1911395541038456,Concept Review,2.33,False
+10553,Application Exercise,5.269477980772234,Advanced Practice,4.4,False
+10554,Application Exercise,4.187710240037476,Advanced Practice,3.82,False
+10555,Advanced Practice,4.4758503907456495,Application Exercise,3.32,False
+10556,Application Exercise,5.344249745434765,Advanced Practice,7.16,False
+10557,Application Exercise,3.8910495663404046,Advanced Practice,2.18,False
+10558,Advanced Practice,2.7139125244115605,Critical Thinking Activity,1.24,False
+10559,Application Exercise,4.948883367988936,Advanced Practice,2.95,False
+10560,Application Exercise,3.068220631073601,Advanced Practice,0.0,False
+10561,Application Exercise,4.400856819180358,Application Exercise,3.02,True
+10562,Application Exercise,5.806116297211814,Advanced Practice,2.89,False
+10563,Application Exercise,4.286700811036169,Critical Thinking Activity,4.27,False
+10564,Application Exercise,4.990973621270253,Application Exercise,3.67,True
+10565,Application Exercise,4.484876786654146,Application Exercise,5.21,True
+10566,Application Exercise,4.104484119710969,Practice Questions,5.43,False
+10567,Advanced Practice,4.113214764878351,Application Exercise,4.94,False
+10568,Application Exercise,2.30764615694165,Application Exercise,2.4,True
+10569,Application Exercise,3.7680090410800773,Critical Thinking Activity,2.79,False
+10570,Practice Questions,4.41636804590885,Advanced Practice,1.56,False
+10571,Application Exercise,4.3187460136376385,Critical Thinking Activity,2.75,False
+10572,Application Exercise,5.358826620917772,Critical Thinking Activity,2.69,False
+10573,Application Exercise,5.4408878920947155,Concept Review,5.81,False
+10574,Application Exercise,3.0998717520152717,Advanced Practice,6.27,False
+10575,Advanced Practice,1.5876994010760628,Advanced Practice,2.08,True
+10576,Application Exercise,4.795528876744208,Advanced Practice,1.49,False
+10577,Application Exercise,2.2547213146484832,Application Exercise,1.22,True
+10578,Application Exercise,5.005028365107606,Practice Questions,3.47,False
+10579,Advanced Practice,2.8714510344575093,Application Exercise,3.14,False
+10580,Application Exercise,4.823086541285175,Advanced Practice,3.11,False
+10581,Application Exercise,4.653330875196226,Advanced Practice,4.02,False
+10582,Application Exercise,5.649883689790913,Advanced Practice,2.81,False
+10583,Critical Thinking Activity,6.189195710498256,Concept Review,4.48,False
+10584,Application Exercise,5.031213666992946,Practice Questions,4.79,False
+10585,Application Exercise,6.177702128448843,Advanced Practice,3.12,False
+10586,Application Exercise,4.493850097630531,Advanced Practice,4.61,False
+10587,Application Exercise,2.7035670346643355,Concept Review,0.62,False
+10588,Application Exercise,4.222568166811914,Advanced Practice,6.02,False
+10589,Application Exercise,5.251442970312613,Advanced Practice,2.66,False
+10590,Critical Thinking Activity,4.419061078050613,Practice Questions,3.66,False
+10591,Application Exercise,7.161787716062514,Advanced Practice,6.25,False
+10592,Application Exercise,4.5845111555934235,Concept Review,3.48,False
+10593,Concept Review,4.634548700994633,Critical Thinking Activity,4.39,False
+10594,Practice Questions,5.210780004721968,Concept Review,5.93,False
+10595,Application Exercise,5.532206479792421,Concept Review,5.86,False
+10596,Application Exercise,6.179027739083064,Advanced Practice,6.77,False
+10597,Critical Thinking Activity,6.18333556530256,Concept Review,5.87,False
+10598,Application Exercise,2.9501655006689784,Practice Questions,1.47,False
+10599,Advanced Practice,1.0431238196184047,Advanced Practice,4.63,True
+10600,Advanced Practice,1.2010235086352905,Advanced Practice,2.71,True
+10601,Concept Review,5.749856106200706,Practice Questions,4.32,False
+10602,Practice Questions,0.9555203053905443,Advanced Practice,0.9,False
+10603,Application Exercise,1.7515486157313778,Advanced Practice,1.0,False
+10604,Application Exercise,4.670165564410987,Application Exercise,4.52,True
+10605,Application Exercise,4.446494558261663,Practice Questions,2.07,False
+10606,Critical Thinking Activity,2.481388842524936,Critical Thinking Activity,2.0,True
+10607,Application Exercise,3.738505378187313,Critical Thinking Activity,4.96,False
+10608,Application Exercise,5.503090302952227,Critical Thinking Activity,5.08,False
+10609,Application Exercise,5.043212187250459,Critical Thinking Activity,0.08,False
+10610,Application Exercise,4.701289696941846,Advanced Practice,4.96,False
+10611,Concept Review,5.29246706075817,Advanced Practice,6.16,False
+10612,Application Exercise,2.4879805831167916,Concept Review,1.4,False
+10613,Application Exercise,3.13925696893607,Application Exercise,4.06,True
+10614,Practice Questions,2.9764012961457262,Advanced Practice,1.7,False
+10615,Application Exercise,4.692662353170384,Application Exercise,3.6,True
+10616,Application Exercise,3.590995306506615,Advanced Practice,4.31,False
+10617,Application Exercise,6.185808762461885,Critical Thinking Activity,5.43,False
+10618,Critical Thinking Activity,2.858559830415113,Application Exercise,0.18,False
+10619,Application Exercise,5.132794750832968,Application Exercise,5.14,True
+10620,Critical Thinking Activity,6.132994738567106,Critical Thinking Activity,5.78,True
+10621,Application Exercise,4.595959880653507,Critical Thinking Activity,6.09,False
+10622,Application Exercise,3.6111629902690443,Critical Thinking Activity,2.59,False
+10623,Application Exercise,3.9390127306405005,Critical Thinking Activity,2.31,False
+10624,Application Exercise,3.2819749844988357,Critical Thinking Activity,4.03,False
+10625,Application Exercise,2.4966959953184915,Practice Questions,1.94,False
+10626,Application Exercise,5.135921602180658,Concept Review,3.34,False
+10627,Critical Thinking Activity,4.844533649092503,Critical Thinking Activity,6.18,True
+10628,Application Exercise,6.508833921900382,Critical Thinking Activity,5.49,False
+10629,Application Exercise,4.571300553876559,Concept Review,3.46,False
+10630,Advanced Practice,3.3104170414500764,Application Exercise,3.6,False
+10631,Concept Review,4.290682440118623,Application Exercise,2.86,False
+10632,Critical Thinking Activity,4.92971545429827,Concept Review,3.83,False
+10633,Application Exercise,5.876818623262143,Advanced Practice,4.61,False
+10634,Application Exercise,4.1034411701231575,Advanced Practice,3.77,False
+10635,Application Exercise,3.3494482847746987,Practice Questions,4.7,False
+10636,Application Exercise,4.384539660814137,Advanced Practice,4.45,False
+10637,Application Exercise,3.337190247898439,Critical Thinking Activity,3.36,False
+10638,Application Exercise,5.415671102245254,Practice Questions,5.36,False
+10639,Practice Questions,2.0138383766279544,Advanced Practice,3.07,False
+10640,Application Exercise,5.183958583779965,Advanced Practice,4.57,False
+10641,Critical Thinking Activity,5.2736877194130125,Critical Thinking Activity,5.28,True
+10642,Application Exercise,4.16262680910012,Critical Thinking Activity,2.89,False
+10643,Practice Questions,4.608980826495591,Application Exercise,3.12,False
+10644,Application Exercise,7.3081025941267255,Advanced Practice,6.44,False
+10645,Critical Thinking Activity,1.3828943654681551,Practice Questions,1.28,False
+10646,Concept Review,6.194363435445132,Concept Review,5.59,True
+10647,Application Exercise,3.7707154197227375,Advanced Practice,4.64,False
+10648,Application Exercise,6.060190058945002,Advanced Practice,3.6,False
+10649,Application Exercise,4.1371048997966,Critical Thinking Activity,3.36,False
+10650,Application Exercise,3.4434324938194423,Advanced Practice,3.75,False
+10651,Application Exercise,4.475530057106525,Practice Questions,3.83,False
+10652,Application Exercise,6.180563501512636,Critical Thinking Activity,4.88,False
+10653,Concept Review,6.22257049856027,Application Exercise,6.05,False
+10654,Practice Questions,2.387192024861664,Advanced Practice,2.39,False
+10655,Application Exercise,5.368068610012758,Concept Review,2.44,False
+10656,Concept Review,5.007907875129783,Concept Review,4.2,True
+10657,Application Exercise,4.942857689338821,Critical Thinking Activity,6.44,False
+10658,Application Exercise,3.6711807832020193,Advanced Practice,1.69,False
+10659,Concept Review,3.8322842514003765,Concept Review,3.59,True
+10660,Critical Thinking Activity,5.556018375620144,Application Exercise,4.3,False
+10661,Application Exercise,3.271762809366122,Advanced Practice,2.12,False
+10662,Application Exercise,6.3643684187839895,Concept Review,4.18,False
+10663,Advanced Practice,4.947662532036336,Critical Thinking Activity,5.4,False
+10664,Concept Review,5.8442108894982425,Advanced Practice,5.81,False
+10665,Application Exercise,6.644285468788063,Advanced Practice,6.17,False
+10666,Advanced Practice,3.7224660955379494,Critical Thinking Activity,2.04,False
+10667,Application Exercise,5.6304339666756515,Advanced Practice,4.16,False
+10668,Critical Thinking Activity,4.036931732542514,Application Exercise,3.57,False
+10669,Application Exercise,5.55519442722233,Critical Thinking Activity,5.52,False
+10670,Critical Thinking Activity,5.3422817954865724,Application Exercise,4.22,False
+10671,Application Exercise,3.5237834456618167,Application Exercise,4.85,True
+10672,Application Exercise,2.890091801581525,Critical Thinking Activity,3.6,False
+10673,Concept Review,2.340448548990005,Critical Thinking Activity,0.79,False
+10674,Application Exercise,6.487572061626297,Critical Thinking Activity,4.93,False
+10675,Application Exercise,4.713457326863339,Critical Thinking Activity,3.3,False
+10676,Application Exercise,4.101583464865999,Advanced Practice,7.46,False
+10677,Application Exercise,4.264077045673895,Advanced Practice,3.25,False
+10678,Concept Review,3.063609316261786,Practice Questions,5.75,False
+10679,Application Exercise,2.386992924845342,Advanced Practice,0.01,False
+10680,Application Exercise,6.060640861975074,Concept Review,3.36,False
+10681,Practice Questions,3.1559144762804614,Advanced Practice,2.01,False
+10682,Application Exercise,3.761219277370922,Critical Thinking Activity,1.13,False
+10683,Concept Review,3.45762863237075,Application Exercise,2.91,False
+10684,Critical Thinking Activity,5.0921939405284515,Concept Review,3.71,False
+10685,Advanced Practice,4.594072536452403,Advanced Practice,3.51,True
+10686,Application Exercise,2.5165729353336275,Advanced Practice,3.61,False
+10687,Application Exercise,5.569638780089647,Advanced Practice,6.56,False
+10688,Application Exercise,5.488678806727419,Critical Thinking Activity,6.62,False
+10689,Application Exercise,3.7553608611074707,Advanced Practice,3.79,False
+10690,Practice Questions,5.305549004308463,Advanced Practice,5.0,False
+10691,Application Exercise,4.293664173920691,Advanced Practice,3.14,False
+10692,Application Exercise,4.483700235960985,Advanced Practice,2.15,False
+10693,Application Exercise,4.976602260796513,Critical Thinking Activity,5.34,False
+10694,Application Exercise,5.000342676502346,Critical Thinking Activity,2.63,False
+10695,Application Exercise,7.035155628902052,Application Exercise,4.52,True
+10696,Application Exercise,2.9665788877471684,Practice Questions,3.79,False
+10697,Application Exercise,3.953780160402225,Advanced Practice,6.0,False
+10698,Application Exercise,3.632625190471453,Concept Review,4.06,False
+10699,Application Exercise,4.71734144177551,Application Exercise,6.1,True
+10700,Application Exercise,2.9322930649053376,Critical Thinking Activity,1.42,False
+10701,Application Exercise,5.430856492013678,Advanced Practice,2.94,False
+10702,Application Exercise,5.032739851491952,Concept Review,5.2,False
+10703,Application Exercise,3.536102591920598,Advanced Practice,3.25,False
+10704,Application Exercise,4.530089516774941,Critical Thinking Activity,3.99,False
+10705,Advanced Practice,3.6386446175628464,Practice Questions,3.17,False
+10706,Application Exercise,2.1937960894323263,Advanced Practice,3.55,False
+10707,Application Exercise,4.608974540383443,Advanced Practice,1.85,False
+10708,Application Exercise,5.358746915481602,Advanced Practice,3.07,False
+10709,Concept Review,4.064999021983613,Practice Questions,2.5,False
+10710,Critical Thinking Activity,3.6888526054192243,Application Exercise,3.58,False
+10711,Advanced Practice,3.9355306275046726,Critical Thinking Activity,2.24,False
+10712,Practice Questions,3.8337124631791157,Critical Thinking Activity,2.78,False
+10713,Critical Thinking Activity,4.750444667455394,Concept Review,3.56,False
+10714,Advanced Practice,2.2233456685525312,Application Exercise,1.69,False
+10715,Advanced Practice,2.8136687013506734,Concept Review,0.72,False
+10716,Application Exercise,4.769731622627871,Advanced Practice,3.16,False
+10717,Critical Thinking Activity,6.958414174263694,Concept Review,8.48,False
+10718,Application Exercise,5.92777012983002,Practice Questions,4.91,False
+10719,Application Exercise,3.976127003949576,Application Exercise,5.47,True
+10720,Application Exercise,5.309829401818497,Practice Questions,6.73,False
+10721,Application Exercise,4.139678502194579,Advanced Practice,3.23,False
+10722,Application Exercise,5.691940653366719,Practice Questions,4.58,False
+10723,Application Exercise,5.559378176089508,Practice Questions,4.45,False
+10724,Application Exercise,5.7354095761233905,Critical Thinking Activity,6.56,False
+10725,Application Exercise,3.601591787459539,Critical Thinking Activity,2.84,False
+10726,Application Exercise,4.631036314834731,Critical Thinking Activity,0.32,False
+10727,Concept Review,5.107565040416315,Practice Questions,5.46,False
+10728,Application Exercise,4.081083313529198,Advanced Practice,1.06,False
+10729,Practice Questions,3.8477490631445095,Concept Review,2.4,False
+10730,Application Exercise,5.087911052190234,Practice Questions,4.22,False
+10731,Critical Thinking Activity,2.713883421907976,Practice Questions,2.27,False
+10732,Advanced Practice,4.359486080403018,Application Exercise,2.02,False
+10733,Practice Questions,4.743555854621561,Application Exercise,4.75,False
+10734,Critical Thinking Activity,3.712296502830223,Practice Questions,4.82,False
+10735,Application Exercise,6.806999179345542,Practice Questions,4.42,False
+10736,Advanced Practice,1.8927534606646388,Application Exercise,3.68,False
+10737,Concept Review,5.66353950363884,Practice Questions,3.37,False
+10738,Concept Review,5.803863391352611,Critical Thinking Activity,8.41,False
+10739,Critical Thinking Activity,4.822589958800587,Critical Thinking Activity,4.17,True
+10740,Application Exercise,2.7315810543484935,Application Exercise,2.31,True
+10741,Application Exercise,2.046506002561968,Advanced Practice,0.0,False
+10742,Application Exercise,5.161066555545471,Advanced Practice,4.31,False
+10743,Application Exercise,3.3005779476267483,Practice Questions,2.7,False
+10744,Application Exercise,5.062709096758384,Advanced Practice,4.57,False
+10745,Application Exercise,4.620182751832889,Critical Thinking Activity,3.29,False
+10746,Critical Thinking Activity,4.666856799834323,Application Exercise,2.73,False
+10747,Application Exercise,4.178864874658222,Application Exercise,5.28,True
+10748,Application Exercise,5.822083891778096,Concept Review,5.68,False
+10749,Advanced Practice,3.0532321713165453,Advanced Practice,5.25,True
+10750,Application Exercise,5.668447218139737,Concept Review,4.61,False
+10751,Application Exercise,3.0621146014856553,Critical Thinking Activity,2.17,False
+10752,Application Exercise,3.957426584602855,Critical Thinking Activity,3.9,False
+10753,Advanced Practice,3.1916269232810217,Application Exercise,0.48,False
+10754,Advanced Practice,2.5544010812336557,Application Exercise,0.94,False
+10755,Application Exercise,3.209066798178067,Guided Review,3.16,False
+10756,Application Exercise,4.0559989750545915,Advanced Practice,2.17,False
+10757,Application Exercise,4.418010315356115,Advanced Practice,1.05,False
+10758,Application Exercise,5.170324354968901,Application Exercise,6.45,True
+10759,Concept Review,4.682695740496831,Practice Questions,2.24,False
+10760,Application Exercise,6.245448948903647,Advanced Practice,5.89,False
+10761,Application Exercise,4.177342898342913,Application Exercise,3.36,True
+10762,Application Exercise,3.140451341944416,Advanced Practice,0.0,False
+10763,Application Exercise,4.04089399726445,Critical Thinking Activity,3.25,False
+10764,Advanced Practice,4.514295387373069,Application Exercise,4.94,False
+10765,Advanced Practice,2.784026815955232,Application Exercise,3.39,False
+10766,Application Exercise,2.18435776585445,Advanced Practice,2.95,False
+10767,Application Exercise,2.634800462208666,Advanced Practice,1.72,False
+10768,Application Exercise,5.42322789599552,Advanced Practice,5.22,False
+10769,Application Exercise,3.7439666595716337,Critical Thinking Activity,2.26,False
+10770,Application Exercise,7.259281317131487,Concept Review,4.43,False
+10771,Application Exercise,3.791440234385947,Advanced Practice,1.37,False
+10772,Advanced Practice,4.581308212933125,Critical Thinking Activity,2.26,False
+10773,Application Exercise,2.3403790762333423,Application Exercise,3.89,True
+10774,Application Exercise,5.644005816013431,Critical Thinking Activity,2.57,False
+10775,Application Exercise,2.734919466402557,Critical Thinking Activity,1.89,False
+10776,Application Exercise,3.235012499693179,Practice Questions,2.13,False
+10777,Application Exercise,4.483744089405512,Advanced Practice,3.26,False
+10778,Application Exercise,5.622669993266441,Application Exercise,6.78,True
+10779,Application Exercise,2.980541831436904,Advanced Practice,1.81,False
+10780,Application Exercise,5.04559589551379,Advanced Practice,5.0,False
+10781,Concept Review,2.9880129874230295,Practice Questions,2.68,False
+10782,Application Exercise,3.8175196643566247,Application Exercise,3.39,True
+10783,Application Exercise,5.065049194191684,Advanced Practice,7.44,False
+10784,Application Exercise,2.919449117733355,Critical Thinking Activity,0.55,False
+10785,Application Exercise,5.676301803283378,Application Exercise,7.44,True
+10786,Concept Review,5.106757991494806,Advanced Practice,5.61,False
+10787,Application Exercise,4.303110781722983,Advanced Practice,1.91,False
+10788,Application Exercise,4.866237760225769,Practice Questions,6.8,False
+10789,Application Exercise,4.814271759118689,Concept Review,2.02,False
+10790,Application Exercise,4.611002236705743,Advanced Practice,2.72,False
+10791,Application Exercise,3.773631800070606,Critical Thinking Activity,1.55,False
+10792,Application Exercise,3.1920468111249676,Critical Thinking Activity,3.1,False
+10793,Critical Thinking Activity,4.756020595063611,Application Exercise,2.81,False
+10794,Advanced Practice,3.776452683139774,Critical Thinking Activity,4.29,False
+10795,Application Exercise,3.339151649968143,Critical Thinking Activity,2.99,False
+10796,Advanced Practice,4.026101364015694,Advanced Practice,3.15,True
+10797,Concept Review,4.537128844728116,Concept Review,5.03,True
+10798,Critical Thinking Activity,3.290230688911215,Concept Review,2.91,False
+10799,Application Exercise,5.540153141333084,Concept Review,3.65,False
+10800,Application Exercise,2.0675105252529278,Application Exercise,5.75,True
+10801,Concept Review,4.06536229958297,Practice Questions,3.24,False
+10802,Application Exercise,4.535673238469349,Critical Thinking Activity,0.96,False
+10803,Application Exercise,6.161038392059861,Concept Review,4.05,False
+10804,Advanced Practice,4.917186952361888,Application Exercise,3.01,False
+10805,Application Exercise,3.6208764036399685,Advanced Practice,4.72,False
+10806,Application Exercise,6.049949285748214,Critical Thinking Activity,6.29,False
+10807,Application Exercise,5.319278082446407,Advanced Practice,4.92,False
+10808,Application Exercise,4.3738096741059795,Practice Questions,3.32,False
+10809,Application Exercise,4.410692435400893,Application Exercise,3.78,True
+10810,Application Exercise,3.3157055591288644,Critical Thinking Activity,2.29,False
+10811,Application Exercise,4.627881581636443,Practice Questions,3.61,False
+10812,Application Exercise,5.5391130704800435,Advanced Practice,5.79,False
+10813,Application Exercise,4.376281393230184,Advanced Practice,4.57,False
+10814,Critical Thinking Activity,6.872158010105135,Concept Review,7.38,False
+10815,Application Exercise,3.497947014898269,Advanced Practice,3.45,False
+10816,Application Exercise,4.419179426630761,Practice Questions,4.35,False
+10817,Critical Thinking Activity,4.081904009419926,Advanced Practice,4.11,False
+10818,Application Exercise,1.4712909056456578,Practice Questions,1.43,False
+10819,Application Exercise,4.1533749517430225,Advanced Practice,4.74,False
+10820,Concept Review,3.8090828614398173,Advanced Practice,2.56,False
+10821,Advanced Practice,4.511048516606835,Critical Thinking Activity,2.96,False
+10822,Application Exercise,2.856483463095934,Concept Review,0.0,False
+10823,Application Exercise,3.8180517720543214,Advanced Practice,2.17,False
+10824,Application Exercise,2.4211915443751515,Advanced Practice,0.0,False
+10825,Application Exercise,5.954245294732715,Practice Questions,5.68,False
+10826,Advanced Practice,2.9880620468320953,Application Exercise,2.96,False
+10827,Application Exercise,6.665531176639982,Advanced Practice,7.02,False
+10828,Application Exercise,6.105933939282327,Critical Thinking Activity,4.21,False
+10829,Critical Thinking Activity,1.7189094339606048,Application Exercise,1.2,False
+10830,Application Exercise,5.195796367568347,Advanced Practice,5.98,False
+10831,Application Exercise,4.65040857257664,Critical Thinking Activity,6.43,False
+10832,Application Exercise,4.748599358410683,Advanced Practice,2.94,False
+10833,Application Exercise,4.985887274525137,Advanced Practice,3.53,False
+10834,Concept Review,3.424860371619123,Critical Thinking Activity,3.61,False
+10835,Advanced Practice,2.2789448534888437,Critical Thinking Activity,3.01,False
+10836,Practice Questions,2.709043158981526,Advanced Practice,1.99,False
+10837,Concept Review,5.460236554974276,Concept Review,7.27,True
+10838,Concept Review,3.550225306554136,Concept Review,0.56,True
+10839,Advanced Practice,5.1362269996664445,Critical Thinking Activity,4.5,False
+10840,Application Exercise,6.248569373551658,Advanced Practice,5.8,False
+10841,Practice Questions,4.581628991573295,Concept Review,5.73,False
+10842,Application Exercise,3.3102283536942707,Application Exercise,5.0,True
+10843,Application Exercise,4.480265724503399,Advanced Practice,4.86,False
+10844,Application Exercise,4.268805127105266,Application Exercise,3.44,True
+10845,Practice Questions,3.19371839330213,Concept Review,4.89,False
+10846,Critical Thinking Activity,4.251935720291022,Practice Questions,2.26,False
+10847,Critical Thinking Activity,4.735625364246254,Application Exercise,6.07,False
+10848,Application Exercise,5.406329405617396,Application Exercise,7.58,True
+10849,Application Exercise,3.5656745243810724,Advanced Practice,4.21,False
+10850,Practice Questions,2.5656734597063955,Concept Review,2.55,False
+10851,Critical Thinking Activity,2.405040968224703,Application Exercise,1.34,False
+10852,Application Exercise,4.646755602467894,Advanced Practice,1.66,False
+10853,Application Exercise,5.249758200845335,Advanced Practice,5.77,False
+10854,Application Exercise,4.488828588621331,Application Exercise,2.85,True
+10855,Application Exercise,3.6012001521307737,Advanced Practice,2.25,False
+10856,Application Exercise,3.539470564646722,Critical Thinking Activity,0.53,False
+10857,Application Exercise,6.114419276037967,Critical Thinking Activity,4.77,False
+10858,Application Exercise,4.015819744573893,Advanced Practice,3.11,False
+10859,Concept Review,3.3396442345697754,Concept Review,3.69,True
+10860,Critical Thinking Activity,6.408637681700741,Concept Review,5.24,False
+10861,Critical Thinking Activity,3.471042653847845,Application Exercise,4.74,False
+10862,Application Exercise,3.6237624641894746,Practice Questions,1.42,False
+10863,Advanced Practice,1.6092237149098683,Critical Thinking Activity,0.75,False
+10864,Application Exercise,3.7153994757622724,Advanced Practice,3.3,False
+10865,Application Exercise,6.827888753828842,Concept Review,9.2,False
+10866,Application Exercise,6.417192418274756,Concept Review,7.04,False
+10867,Application Exercise,5.637212299097635,Concept Review,4.87,False
+10868,Critical Thinking Activity,6.075188496484715,Application Exercise,3.76,False
+10869,Application Exercise,4.319580267322099,Advanced Practice,2.25,False
+10870,Application Exercise,2.8815825185933774,Practice Questions,2.31,False
+10871,Concept Review,4.354371960159839,Concept Review,3.48,True
+10872,Application Exercise,6.222851649137796,Advanced Practice,2.69,False
+10873,Application Exercise,4.013360655344551,Application Exercise,2.34,True
+10874,Advanced Practice,3.7727777074181152,Advanced Practice,6.0,True
+10875,Application Exercise,5.360051527258815,Critical Thinking Activity,6.81,False
+10876,Advanced Practice,5.315448505523136,Application Exercise,4.13,False
+10877,Application Exercise,6.207137340582866,Advanced Practice,6.16,False
+10878,Application Exercise,4.577684150706824,Advanced Practice,2.35,False
+10879,Application Exercise,4.51610158014753,Advanced Practice,5.49,False
+10880,Application Exercise,5.420263298683723,Advanced Practice,4.63,False
+10881,Application Exercise,4.948034391034272,Critical Thinking Activity,6.01,False
+10882,Advanced Practice,2.675619891474729,Concept Review,0.27,False
+10883,Critical Thinking Activity,2.5517044185869677,Application Exercise,3.45,False
+10884,Application Exercise,5.821710886528346,Critical Thinking Activity,5.54,False
+10885,Application Exercise,4.451891241615588,Critical Thinking Activity,4.51,False
+10886,Application Exercise,3.210695782798819,Critical Thinking Activity,3.96,False
+10887,Application Exercise,3.4690680944615484,Advanced Practice,2.5,False
+10888,Application Exercise,5.483849663983756,Critical Thinking Activity,3.41,False
+10889,Application Exercise,3.8603135229749084,Advanced Practice,3.8,False
+10890,Application Exercise,3.7705212211585093,Critical Thinking Activity,2.44,False
+10891,Concept Review,5.981865437477627,Concept Review,4.57,True
+10892,Application Exercise,4.325052868034957,Critical Thinking Activity,2.92,False
+10893,Application Exercise,4.588904664207368,Practice Questions,1.49,False
+10894,Application Exercise,2.598869253403458,Advanced Practice,1.06,False
+10895,Advanced Practice,4.072733930409219,Critical Thinking Activity,6.11,False
+10896,Critical Thinking Activity,3.0905581386613816,Advanced Practice,3.46,False
+10897,Application Exercise,4.167879105747564,Critical Thinking Activity,2.04,False
+10898,Application Exercise,4.029611393963118,Advanced Practice,4.5,False
+10899,Application Exercise,5.785844822674473,Practice Questions,3.73,False
+10900,Application Exercise,7.160427733473041,Critical Thinking Activity,6.64,False
+10901,Application Exercise,4.201506052533914,Advanced Practice,3.52,False
+10902,Application Exercise,5.034663728208783,Critical Thinking Activity,6.03,False
+10903,Application Exercise,2.691656445193288,Advanced Practice,0.0,False
+10904,Application Exercise,3.149507656574084,Critical Thinking Activity,1.8,False
+10905,Application Exercise,5.052681289461917,Advanced Practice,1.88,False
+10906,Application Exercise,2.6456933633121573,Advanced Practice,2.12,False
+10907,Application Exercise,4.345210561969518,Practice Questions,5.02,False
+10908,Application Exercise,3.8112908210660557,Advanced Practice,2.41,False
+10909,Application Exercise,5.049315311809254,Practice Questions,3.32,False
+10910,Application Exercise,4.636492860898614,Advanced Practice,5.15,False
+10911,Critical Thinking Activity,4.174316648842449,Concept Review,5.35,False
+10912,Application Exercise,3.870023830718515,Critical Thinking Activity,2.9,False
+10913,Application Exercise,5.736242546595871,Advanced Practice,6.19,False
+10914,Application Exercise,3.4508089138664433,Advanced Practice,1.22,False
+10915,Application Exercise,5.225210090587913,Advanced Practice,5.73,False
+10916,Application Exercise,5.327484296279257,Critical Thinking Activity,7.02,False
+10917,Advanced Practice,5.119083784588904,Application Exercise,5.9,False
+10918,Application Exercise,1.7540109525589265,Application Exercise,0.0,True
+10919,Application Exercise,6.085094990207111,Practice Questions,3.91,False
+10920,Application Exercise,4.186412061724159,Critical Thinking Activity,3.86,False
+10921,Application Exercise,6.213000211953924,Practice Questions,3.8,False
+10922,Application Exercise,5.176608845562461,Critical Thinking Activity,6.12,False
+10923,Application Exercise,5.724477854603109,Critical Thinking Activity,6.03,False
+10924,Application Exercise,0.9006571957961098,Practice Questions,0.0,False
+10925,Critical Thinking Activity,2.7435804479695514,Application Exercise,3.04,False
+10926,Application Exercise,2.5546208463402182,Advanced Practice,0.66,False
+10927,Application Exercise,5.675837231456615,Advanced Practice,3.98,False
+10928,Advanced Practice,6.139064710691874,Application Exercise,5.27,False
+10929,Application Exercise,5.268133804684815,Practice Questions,5.22,False
+10930,Application Exercise,4.750950649209902,Practice Questions,6.83,False
+10931,Application Exercise,4.553446392739711,Advanced Practice,1.53,False
+10932,Advanced Practice,6.484557720375849,Concept Review,3.76,False
+10933,Application Exercise,4.231837793193444,Practice Questions,2.24,False
+10934,Application Exercise,4.133732232412773,Practice Questions,1.08,False
+10935,Advanced Practice,5.664619643010414,Concept Review,5.67,False
+10936,Application Exercise,6.325466467696003,Concept Review,7.06,False
+10937,Application Exercise,5.920547031739108,Application Exercise,7.17,True
+10938,Application Exercise,2.783614122874395,Advanced Practice,1.63,False
+10939,Application Exercise,6.1262844298417445,Concept Review,5.72,False
+10940,Application Exercise,5.309716838367208,Advanced Practice,1.61,False
+10941,Application Exercise,4.365153270931508,Application Exercise,4.31,True
+10942,Application Exercise,3.899391395687082,Advanced Practice,3.27,False
+10943,Application Exercise,3.223806686853834,Application Exercise,3.48,True
+10944,Practice Questions,3.9008140525549764,Advanced Practice,2.54,False
+10945,Application Exercise,4.837833152114774,Advanced Practice,3.4,False
+10946,Advanced Practice,6.952049782401041,Concept Review,4.88,False
+10947,Advanced Practice,3.3878332074342774,Critical Thinking Activity,0.11,False
+10948,Application Exercise,3.2154693780247814,Advanced Practice,1.03,False
+10949,Critical Thinking Activity,4.971415756644105,Concept Review,2.47,False
+10950,Application Exercise,4.5439255376799474,Critical Thinking Activity,4.35,False
+10951,Application Exercise,5.368951057929318,Critical Thinking Activity,4.53,False
+10952,Application Exercise,5.207607811272007,Critical Thinking Activity,4.09,False
+10953,Application Exercise,4.339467706714876,Practice Questions,2.17,False
+10954,Application Exercise,4.927477383411226,Advanced Practice,0.0,False
+10955,Advanced Practice,4.642660550195928,Application Exercise,6.87,False
+10956,Application Exercise,4.659495122065028,Concept Review,1.85,False
+10957,Application Exercise,6.022651774097251,Critical Thinking Activity,4.39,False
+10958,Application Exercise,5.627475832800664,Concept Review,2.92,False
+10959,Application Exercise,4.113569022330225,Advanced Practice,4.55,False
+10960,Critical Thinking Activity,3.7115071725992737,Concept Review,3.46,False
+10961,Application Exercise,3.993688540930302,Practice Questions,1.85,False
+10962,Application Exercise,6.004718076168399,Concept Review,4.67,False
+10963,Application Exercise,5.076888263196999,Advanced Practice,6.16,False
+10964,Application Exercise,5.022245810137327,Advanced Practice,3.9,False
+10965,Application Exercise,4.057901410964886,Critical Thinking Activity,2.53,False
+10966,Application Exercise,5.761412174401643,Advanced Practice,3.08,False
+10967,Application Exercise,2.4172648059347623,Practice Questions,0.0,False
+10968,Advanced Practice,5.0064716744526745,Application Exercise,4.53,False
+10969,Application Exercise,6.684991885848246,Critical Thinking Activity,6.5,False
+10970,Application Exercise,4.707974172359104,Critical Thinking Activity,5.56,False
+10971,Application Exercise,6.367559464764891,Critical Thinking Activity,2.1,False
+10972,Application Exercise,3.5435354194867514,Advanced Practice,1.44,False
+10973,Advanced Practice,4.744845548130778,Critical Thinking Activity,3.75,False
+10974,Advanced Practice,4.424873732686682,Advanced Practice,4.0,True
+10975,Application Exercise,4.618023121898006,Application Exercise,3.47,True
+10976,Application Exercise,5.532183257428298,Application Exercise,4.82,True
+10977,Application Exercise,4.922163075247714,Concept Review,4.88,False
+10978,Application Exercise,4.642708565888736,Advanced Practice,2.42,False
+10979,Application Exercise,2.771165539077848,Advanced Practice,3.64,False
+10980,Application Exercise,3.72924226738423,Critical Thinking Activity,3.18,False
+10981,Application Exercise,2.8984592523570307,Advanced Practice,2.38,False
+10982,Advanced Practice,5.382885656517185,Application Exercise,8.13,False
+10983,Application Exercise,5.058740103067585,Advanced Practice,6.01,False
+10984,Advanced Practice,3.9067045624779233,Critical Thinking Activity,5.37,False
+10985,Critical Thinking Activity,6.545827042503271,Concept Review,2.08,False
+10986,Application Exercise,4.5261571095427175,Practice Questions,5.76,False
+10987,Application Exercise,6.938643509630882,Critical Thinking Activity,7.58,False
+10988,Concept Review,4.900330654879298,Practice Questions,6.92,False
+10989,Practice Questions,4.703093002653338,Advanced Practice,6.43,False
+10990,Application Exercise,5.00074593749906,Advanced Practice,5.74,False
+10991,Application Exercise,4.48929241342087,Practice Questions,4.49,False
+10992,Advanced Practice,3.4397579903801265,Practice Questions,5.03,False
+10993,Practice Questions,4.209789785375282,Practice Questions,7.15,True
+10994,Application Exercise,3.797465674609602,Concept Review,3.57,False
+10995,Practice Questions,3.1092791488963982,Application Exercise,0.77,False
+10996,Concept Review,4.778290162691011,Concept Review,3.8,True
+10997,Advanced Practice,4.080074342094402,Concept Review,4.7,False
+10998,Application Exercise,1.7586218232948194,Advanced Practice,1.25,False
+10999,Application Exercise,5.698836948555499,Critical Thinking Activity,3.73,False
+11000,Application Exercise,5.656635537494845,Critical Thinking Activity,1.54,False

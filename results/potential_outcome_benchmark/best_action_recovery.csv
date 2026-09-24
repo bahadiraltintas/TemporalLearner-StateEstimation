@@ -1,0 +1,201 @@
+student_id,true_best_activity,predicted_best_activity
+10011,Advanced Practice,Advanced Practice
+10024,Application Exercise,Critical Thinking Activity
+10026,Critical Thinking Activity,Practice Questions
+10031,Critical Thinking Activity,Application Exercise
+10040,Critical Thinking Activity,Critical Thinking Activity
+10045,Concept Review,Practice Questions
+10055,Advanced Practice,Advanced Practice
+10056,Advanced Practice,Application Exercise
+10060,Advanced Practice,Application Exercise
+10061,Advanced Practice,Advanced Practice
+10064,Practice Questions,Application Exercise
+10067,Practice Questions,Practice Questions
+10068,Critical Thinking Activity,Critical Thinking Activity
+10071,Critical Thinking Activity,Application Exercise
+10073,Advanced Practice,Practice Questions
+10077,Advanced Practice,Practice Questions
+10079,Critical Thinking Activity,Advanced Practice
+10087,Practice Questions,Practice Questions
+10089,Advanced Practice,Advanced Practice
+10097,Advanced Practice,Advanced Practice
+10102,Advanced Practice,Practice Questions
+10108,Critical Thinking Activity,Practice Questions
+10111,Advanced Practice,Advanced Practice
+10121,Advanced Practice,Application Exercise
+10137,Advanced Practice,Advanced Practice
+10138,Advanced Practice,Advanced Practice
+10140,Advanced Practice,Advanced Practice
+10159,Advanced Practice,Advanced Practice
+10169,Critical Thinking Activity,Practice Questions
+10175,Advanced Practice,Advanced Practice
+10185,Advanced Practice,Application Exercise
+10199,Advanced Practice,Advanced Practice
+10200,Advanced Practice,Advanced Practice
+10209,Practice Questions,Practice Questions
+10210,Practice Questions,Advanced Practice
+10211,Advanced Practice,Advanced Practice
+10214,Advanced Practice,Advanced Practice
+10216,Practice Questions,Advanced Practice
+10219,Application Exercise,Practice Questions
+10222,Practice Questions,Advanced Practice
+10236,Practice Questions,Advanced Practice
+10238,Critical Thinking Activity,Application Exercise
+10245,Critical Thinking Activity,Critical Thinking Activity
+10248,Practice Questions,Practice Questions
+10255,Application Exercise,Advanced Practice
+10257,Advanced Practice,Advanced Practice
+10260,Advanced Practice,Practice Questions
+10261,Advanced Practice,Advanced Practice
+10262,Advanced Practice,Advanced Practice
+10266,Advanced Practice,Advanced Practice
+10276,Application Exercise,Application Exercise
+10278,Advanced Practice,Advanced Practice
+10281,Advanced Practice,Advanced Practice
+10282,Practice Questions,Practice Questions
+10290,Advanced Practice,Advanced Practice
+10293,Advanced Practice,Advanced Practice
+10295,Advanced Practice,Application Exercise
+10297,Advanced Practice,Advanced Practice
+10299,Advanced Practice,Advanced Practice
+10300,Critical Thinking Activity,Critical Thinking Activity
+10308,Practice Questions,Practice Questions
+10310,Critical Thinking Activity,Advanced Practice
+10311,Advanced Practice,Advanced Practice
+10313,Advanced Practice,Advanced Practice
+10315,Advanced Practice,Advanced Practice
+10319,Application Exercise,Application Exercise
+10320,Advanced Practice,Critical Thinking Activity
+10322,Practice Questions,Application Exercise
+10328,Advanced Practice,Advanced Practice
+10329,Application Exercise,Application Exercise
+10333,Advanced Practice,Advanced Practice
+10347,Advanced Practice,Advanced Practice
+10352,Advanced Practice,Advanced Practice
+10356,Advanced Practice,Application Exercise
+10362,Practice Questions,Practice Questions
+10364,Advanced Practice,Advanced Practice
+10366,Concept Review,Advanced Practice
+10371,Advanced Practice,Advanced Practice
+10372,Practice Questions,Application Exercise
+10378,Critical Thinking Activity,Critical Thinking Activity
+10383,Advanced Practice,Practice Questions
+10409,Advanced Practice,Advanced Practice
+10412,Advanced Practice,Practice Questions
+10426,Advanced Practice,Advanced Practice
+10430,Critical Thinking Activity,Practice Questions
+10433,Critical Thinking Activity,Application Exercise
+10437,Application Exercise,Application Exercise
+10440,Practice Questions,Application Exercise
+10446,Advanced Practice,Advanced Practice
+10452,Concept Review,Application Exercise
+10463,Advanced Practice,Application Exercise
+10480,Advanced Practice,Practice Questions
+10487,Practice Questions,Practice Questions
+10494,Advanced Practice,Application Exercise
+10495,Advanced Practice,Advanced Practice
+10500,Advanced Practice,Advanced Practice
+10514,Advanced Practice,Advanced Practice
+10522,Advanced Practice,Advanced Practice
+10523,Application Exercise,Application Exercise
+10527,Critical Thinking Activity,Application Exercise
+10528,Application Exercise,Practice Questions
+10529,Advanced Practice,Application Exercise
+10530,Application Exercise,Practice Questions
+10535,Practice Questions,Critical Thinking Activity
+10543,Advanced Practice,Advanced Practice
+10544,Application Exercise,Application Exercise
+10549,Advanced Practice,Advanced Practice
+10550,Advanced Practice,Practice Questions
+10555,Application Exercise,Application Exercise
+10560,Advanced Practice,Advanced Practice
+10571,Advanced Practice,Advanced Practice
+10579,Advanced Practice,Application Exercise
+10584,Practice Questions,Advanced Practice
+10585,Advanced Practice,Advanced Practice
+10590,Practice Questions,Critical Thinking Activity
+10591,Advanced Practice,Advanced Practice
+10596,Advanced Practice,Advanced Practice
+10600,Advanced Practice,Advanced Practice
+10602,Advanced Practice,Advanced Practice
+10605,Practice Questions,Application Exercise
+10614,Advanced Practice,Practice Questions
+10618,Application Exercise,Application Exercise
+10622,Critical Thinking Activity,Practice Questions
+10627,Advanced Practice,Practice Questions
+10636,Advanced Practice,Advanced Practice
+10637,Advanced Practice,Advanced Practice
+10644,Advanced Practice,Advanced Practice
+10645,Practice Questions,Practice Questions
+10650,Advanced Practice,Advanced Practice
+10651,Practice Questions,Application Exercise
+10653,Advanced Practice,Application Exercise
+10657,Critical Thinking Activity,Advanced Practice
+10661,Advanced Practice,Advanced Practice
+10663,Critical Thinking Activity,Critical Thinking Activity
+10669,Advanced Practice,Application Exercise
+10671,Application Exercise,Application Exercise
+10678,Practice Questions,Application Exercise
+10679,Advanced Practice,Practice Questions
+10680,Concept Review,Advanced Practice
+10688,Critical Thinking Activity,Application Exercise
+10690,Advanced Practice,Advanced Practice
+10693,Critical Thinking Activity,Application Exercise
+10698,Advanced Practice,Advanced Practice
+10714,Application Exercise,Concept Review
+10715,Advanced Practice,Concept Review
+10717,Advanced Practice,Practice Questions
+10722,Advanced Practice,Practice Questions
+10738,Advanced Practice,Application Exercise
+10741,Advanced Practice,Advanced Practice
+10742,Advanced Practice,Advanced Practice
+10750,Advanced Practice,Application Exercise
+10754,Application Exercise,Advanced Practice
+10762,Advanced Practice,Advanced Practice
+10765,Application Exercise,Advanced Practice
+10768,Advanced Practice,Advanced Practice
+10788,Practice Questions,Practice Questions
+10801,Practice Questions,Application Exercise
+10803,Advanced Practice,Application Exercise
+10811,Advanced Practice,Advanced Practice
+10812,Advanced Practice,Application Exercise
+10817,Advanced Practice,Practice Questions
+10821,Critical Thinking Activity,Critical Thinking Activity
+10823,Advanced Practice,Advanced Practice
+10824,Advanced Practice,Advanced Practice
+10827,Advanced Practice,Application Exercise
+10830,Advanced Practice,Advanced Practice
+10838,Concept Review,Practice Questions
+10846,Practice Questions,Critical Thinking Activity
+10850,Advanced Practice,Advanced Practice
+10860,Advanced Practice,Practice Questions
+10866,Advanced Practice,Application Exercise
+10867,Advanced Practice,Application Exercise
+10868,Application Exercise,Application Exercise
+10880,Advanced Practice,Advanced Practice
+10884,Advanced Practice,Application Exercise
+10885,Advanced Practice,Advanced Practice
+10893,Practice Questions,Practice Questions
+10894,Advanced Practice,Advanced Practice
+10900,Critical Thinking Activity,Practice Questions
+10902,Application Exercise,Application Exercise
+10903,Advanced Practice,Advanced Practice
+10915,Advanced Practice,Advanced Practice
+10918,Application Exercise,Advanced Practice
+10925,Application Exercise,Application Exercise
+10937,Application Exercise,Practice Questions
+10939,Advanced Practice,Practice Questions
+10942,Advanced Practice,Advanced Practice
+10943,Application Exercise,Practice Questions
+10948,Advanced Practice,Advanced Practice
+10949,Advanced Practice,Application Exercise
+10960,Concept Review,Practice Questions
+10974,Advanced Practice,Advanced Practice
+10975,Application Exercise,Practice Questions
+10978,Advanced Practice,Advanced Practice
+10979,Advanced Practice,Advanced Practice
+10986,Practice Questions,Application Exercise
+10987,Critical Thinking Activity,Application Exercise
+10990,Advanced Practice,Advanced Practice
+10996,Advanced Practice,Application Exercise
+10999,Critical Thinking Activity,Critical Thinking Activity

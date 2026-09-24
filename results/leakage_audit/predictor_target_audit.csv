@@ -1,0 +1,6 @@
+task,target,n_features,forbidden_target_like_variables
+performance,final_grade,28,
+risk,learning_risk_level,28,
+topic,weakest_topic,28,
+recommendation,recommended_activity,28,
+gain,expected_learning_gain,28,

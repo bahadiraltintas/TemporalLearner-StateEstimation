@@ -1,0 +1,29 @@
+{
+  "dataset": "/mnt/data/revision_work/adaptive_ai_framework_reproducibility_v1.1/data_frozen_v1/synthetic_learner_state_dataset_v1.0.csv",
+  "split": "/mnt/data/revision_work/adaptive_ai_framework_reproducibility_v1.1/results/data/train_test_split_ids.csv",
+  "seed": 42,
+  "train_n": 800,
+  "test_n": 200,
+  "cycles": 10,
+  "diminishing_factors": [
+    1.0,
+    0.72,
+    0.5,
+    0.4,
+    0.32,
+    0.27,
+    0.23,
+    0.2,
+    0.18,
+    0.16
+  ],
+  "models": {
+    "performance": "Lasso",
+    "risk": "SVM class-balanced",
+    "topic": "Logistic Regression",
+    "recommendation": "Logistic Regression",
+    "learning_gain": "Lasso"
+  },
+  "simulation_note": "Proof-of-concept only. Simulated gains are generated from model-predicted expected learning gain, completion rate, diminishing response factors, and bounded topic-mastery updates. No observed longitudinal learning outcomes are used.",
+  "completed": "2026-09-24 17:12:13"
+}

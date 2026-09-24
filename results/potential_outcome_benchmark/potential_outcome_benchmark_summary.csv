@@ -1,0 +1,2 @@
+n_train_students,n_test_students,candidate_actions,candidate_pairs_test,MAE,RMSE,R2,top1_best_action_recovery,noise_sd_factual_gain,seed
+800,200,5,1000,0.18268625282266987,0.22582018915530075,0.7069850547953164,0.54,0.35,20260924

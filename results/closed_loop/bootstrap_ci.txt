@@ -1,0 +1,5 @@
+mean_difference=-1.213013
+bootstrap_95_CI=(-1.742789, -0.714962)
+adaptive_gt_static=0.235000
+equal=0.375000
+adaptive_lt_static=0.390000

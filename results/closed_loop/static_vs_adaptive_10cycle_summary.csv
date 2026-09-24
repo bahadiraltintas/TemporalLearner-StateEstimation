@@ -1,0 +1,3 @@
+strategy,mean_cumulative_simulated_gain,median_cumulative_simulated_gain,sd_cumulative_simulated_gain,mean_predicted_final_grade,mean_predicted_learning_gain
+adaptive,7.019428247866927,6.292571772700544,4.807818749383322,69.77563492984059,3.833902121681983
+static,6.955563709938794,6.291074672237243,4.659106568558099,69.77760676013452,3.834348138151157

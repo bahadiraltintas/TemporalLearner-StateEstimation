@@ -1,0 +1,2 @@
+Adaptive AI Framework Reproducibility Package v1.1
+Revision package aligned with reviewer major/minor revision requests.

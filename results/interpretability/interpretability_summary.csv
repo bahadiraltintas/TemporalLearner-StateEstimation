@@ -1,0 +1,11 @@
+task,model,top_feature,top_mean_abs_shap,n_features,method,top_importance
+final_grade,performance_lasso,midterm,2.344158382710875,29.0,SHAP,
+expected_learning_gain,learning_gain_lasso,recommendation_completion_rate,0.5757293692081061,29.0,SHAP,
+weakest_topic,topic_logistic,advanced_topics,2.2591997918525837,29.0,SHAP,
+recommended_activity,recommendation_logistic,advanced_topics,1.996296736701863,29.0,SHAP,
+learning_risk_level,risk_logistic_balanced,midterm,1.5908908319111021,29.0,SHAP,
+final_grade,performance_lasso,midterm,,,Permutation,0.0518535499951003
+expected_learning_gain,learning_gain_lasso,self_regulation,,,Permutation,0.29774498183473386
+learning_risk_level,risk_svm,midterm,,,Permutation,0.12293870049736097
+weakest_topic,topic_logistic,advanced_topics,,,Permutation,0.42409739882348313
+recommended_activity,recommendation_logistic,advanced_topics,,,Permutation,0.43431798660525595

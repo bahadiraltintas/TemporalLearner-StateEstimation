@@ -1,0 +1,2 @@
+mean_difference=0.100927
+bootstrap_95ci=[-0.098069, 0.267713]

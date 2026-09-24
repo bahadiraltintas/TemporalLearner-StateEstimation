@@ -1,0 +1,2 @@
+mean_selected_estimated_gain,median_selected_estimated_gain,mean_top1_top2_margin,policy_match_rate_vs_observed,n_unique_selected_activities,cv_RMSE_train,cv_R2_train,n_train,n_test,MAE,RMSE,R2
+4.435506813726386,4.479526613828486,0.43665987071205004,0.125,5,1.5499260597287998,0.3126435942031368,800,200,1.183209637866334,1.4748713564283842,0.4242230366499379

@@ -1,0 +1,201 @@
+student_id,pred_final_grade,pred_risk,pred_topic,pred_activity,pred_gain,final_predicted_final_grade,final_predicted_risk,final_predicted_weakest_topic,final_predicted_recommendation,final_predicted_learning_gain
+10011,53.3743784666664,Medium,Advanced Topics,Advanced Practice,2.19315569483619,53.415356604284675,Medium,Advanced Topics,Advanced Practice,2.187212038590594
+10024,98.12943381194418,Low,Application Skills,Application Exercise,6.5539225628509135,98.38600501553194,Low,Conceptual Understanding,Concept Review,6.5539225628509135
+10026,90.70352133751113,Low,Critical Thinking,Critical Thinking Activity,5.523576401609715,90.61974941225365,Low,Critical Thinking,Concept Review,5.554032118678773
+10031,78.81239458645713,Low,Critical Thinking,Critical Thinking Activity,3.214231726528073,78.74176332872102,Low,Critical Thinking,Critical Thinking Activity,3.217456209612058
+10040,82.73306592437103,Low,Critical Thinking,Critical Thinking Activity,4.145170148774682,82.49216474940252,Low,Critical Thinking,Critical Thinking Activity,4.156167854160308
+10045,90.3664022298515,Low,Conceptual Understanding,Concept Review,5.092678194666949,90.51566618756313,Low,Conceptual Understanding,Concept Review,5.138130247973937
+10055,64.72680035439225,Medium,Advanced Topics,Advanced Practice,4.249325126061785,64.90808601334044,Medium,Advanced Topics,Advanced Practice,4.223030626075436
+10056,96.49297271055661,Low,Conceptual Understanding,Concept Review,5.767919157307695,96.49297271055661,Low,Conceptual Understanding,Concept Review,5.767919157307695
+10060,88.66094609727008,Low,Conceptual Understanding,Concept Review,5.134315079112445,88.75524685021986,Low,Conceptual Understanding,Concept Review,5.145514191431419
+10061,52.577987909210904,Medium,Advanced Topics,Advanced Practice,3.02220983085573,52.647425986348544,Medium,Advanced Topics,Advanced Practice,3.0121382149930005
+10064,92.8749244107163,Low,Problem Solving,Practice Questions,5.577836792307641,92.94766098410534,Low,Conceptual Understanding,Concept Review,5.5813806830375245
+10067,83.20047308937028,Low,Problem Solving,Practice Questions,5.359086844259635,83.38427577708109,Low,Problem Solving,Practice Questions,5.366192424404746
+10068,56.41657591647535,Medium,Critical Thinking,Critical Thinking Activity,3.1629606336566365,56.2768862805002,Medium,Critical Thinking,Critical Thinking Activity,3.1693377941751804
+10071,84.55933140987193,Low,Critical Thinking,Critical Thinking Activity,4.654641789580255,84.41389098139516,Low,Critical Thinking,Critical Thinking Activity,4.673438952406688
+10073,79.24707583189239,Low,Problem Solving,Practice Questions,4.057411843560421,79.50464239644607,Low,Advanced Topics,Advanced Practice,4.049823429451066
+10077,67.9642599525877,Medium,Advanced Topics,Advanced Practice,3.4059264799750713,68.05966244857468,Medium,Advanced Topics,Advanced Practice,3.392088866211343
+10079,53.01030541806505,Medium,Critical Thinking,Critical Thinking Activity,3.406270997092641,52.89867359868505,Medium,Critical Thinking,Critical Thinking Activity,3.411367252274307
+10087,66.33869076046417,Medium,Problem Solving,Practice Questions,3.66276761403065,66.58263232132475,Medium,Problem Solving,Practice Questions,3.66276761403065
+10089,80.63351187699533,Low,Advanced Topics,Advanced Practice,3.3759077273014975,80.70808289557911,Low,Conceptual Understanding,Concept Review,3.366372831696261
+10097,80.77719896025182,Low,Conceptual Understanding,Concept Review,5.784209256638638,81.09067225148885,Low,Advanced Topics,Concept Review,5.8063872213815015
+10102,55.450373236677194,Medium,Advanced Topics,Advanced Practice,4.101960096901968,55.587949685812944,Medium,Advanced Topics,Advanced Practice,4.0820053803462795
+10108,80.49022746274728,Low,Critical Thinking,Critical Thinking Activity,4.576663047522443,80.30206884241164,Low,Application Skills,Application Exercise,4.590820148376495
+10111,67.91284667025866,Low,Critical Thinking,Critical Thinking Activity,3.0390126646584132,67.87176837403806,Low,Critical Thinking,Critical Thinking Activity,3.0388591755623966
+10121,100.72704168122517,Low,Conceptual Understanding,Concept Review,6.563404781438525,100.72704168122517,Low,Conceptual Understanding,Concept Review,6.563404781438525
+10137,60.005740551401324,Medium,Advanced Topics,Advanced Practice,2.742117589138114,60.06021673135349,Medium,Advanced Topics,Advanced Practice,2.7342161151808275
+10138,58.80946032600671,Medium,Advanced Topics,Advanced Practice,3.427829455854843,58.88480754644719,Medium,Advanced Topics,Advanced Practice,3.416900750857774
+10140,62.1610777113645,Medium,Advanced Topics,Advanced Practice,3.669671320442855,62.25474533929582,Medium,Advanced Topics,Advanced Practice,3.6560853398658386
+10159,56.53438665528425,Medium,Advanced Topics,Advanced Practice,2.9121324517120284,56.612338214298795,Medium,Advanced Topics,Advanced Practice,2.9008260015530016
+10169,76.36601755589577,Low,Critical Thinking,Critical Thinking Activity,3.1930226515989837,76.24312185167311,Low,Critical Thinking,Critical Thinking Activity,3.2011447546856946
+10175,72.67670712897551,Low,Advanced Topics,Advanced Practice,4.338718483241698,72.81609567460893,Low,Advanced Topics,Advanced Practice,4.327832300354221
+10185,85.99190436778449,Low,Advanced Topics,Advanced Practice,4.4077854784052315,86.20944478171418,Low,Advanced Topics,Advanced Practice,4.3923181853597395
+10199,70.65561049176965,Low,Advanced Topics,Advanced Practice,3.583971871308616,70.75362008153483,Low,Conceptual Understanding,Advanced Practice,3.5821962813731725
+10200,57.1065979313944,Medium,Advanced Topics,Advanced Practice,3.1954525515431405,57.201266983283844,Medium,Advanced Topics,Advanced Practice,3.1817213198612873
+10209,59.33020546954131,Medium,Problem Solving,Practice Questions,3.53061817731258,59.55036074819962,Medium,Critical Thinking,Practice Questions,3.53103275461539
+10210,41.594000704510634,Medium,Problem Solving,Practice Questions,2.7927041323359623,41.743331423673624,Medium,Problem Solving,Practice Questions,2.7927041323359623
+10211,66.64758430649695,Medium,Advanced Topics,Advanced Practice,3.668035476834609,66.78768524272624,Medium,Advanced Topics,Advanced Practice,3.6477145971404155
+10214,67.57835156450771,Low,Critical Thinking,Critical Thinking Activity,4.497567298382796,67.45142125258029,Low,Advanced Topics,Advanced Practice,4.501875884881864
+10216,62.35507683085179,Medium,Critical Thinking,Critical Thinking Activity,3.592586846887233,62.375857411275106,Medium,Conceptual Understanding,Practice Questions,3.6064525321586967
+10219,87.29983703313479,Low,Application Skills,Application Exercise,3.0746388483289873,87.41158399064608,Low,Application Skills,Application Exercise,3.080615141968856
+10222,69.83889442102189,Low,Critical Thinking,Critical Thinking Activity,4.486302781786434,69.78895543564656,Low,Problem Solving,Practice Questions,4.494208833276927
+10236,50.66259193665459,Medium,Problem Solving,Practice Questions,2.703005033342923,50.77556474490214,Medium,Application Skills,Practice Questions,2.703005033342923
+10238,58.43652320378887,Medium,Critical Thinking,Critical Thinking Activity,2.4709190015677827,58.387313397981146,Medium,Critical Thinking,Critical Thinking Activity,2.4735651712115843
+10245,66.14267674462725,Medium,Critical Thinking,Critical Thinking Activity,3.2514080302409845,66.01951837002201,Medium,Critical Thinking,Critical Thinking Activity,3.2570304997862576
+10248,50.193123670420476,Medium,Problem Solving,Practice Questions,1.0213799780987074,50.20792977037945,Medium,Problem Solving,Practice Questions,1.0213799780987074
+10255,57.87670400538825,Medium,Application Skills,Application Exercise,1.6573524916554168,57.924847175047724,Medium,Application Skills,Application Exercise,1.6573524916554168
+10257,61.50066071701194,Medium,Advanced Topics,Practice Questions,3.928543180956106,61.64279152592023,Medium,Advanced Topics,Practice Questions,3.9256837581146224
+10260,67.77898127734417,Medium,Advanced Topics,Advanced Practice,5.144066782299104,68.0401380633647,Medium,Conceptual Understanding,Concept Review,5.130229015180821
+10261,52.493664162608596,Medium,Problem Solving,Advanced Practice,2.504712262489449,52.57928782427632,Medium,Problem Solving,Advanced Practice,2.5008495837975975
+10262,74.78133237512972,Low,Advanced Topics,Advanced Practice,5.131005839956956,74.80735919620966,Low,Advanced Topics,Advanced Practice,5.116838062901532
+10266,73.22689409466712,Low,Advanced Topics,Advanced Practice,4.3238563876504195,73.3839929970221,Low,Advanced Topics,Advanced Practice,4.301070045312058
+10276,85.76518954944379,Low,Application Skills,Application Exercise,5.926190670049348,86.19765521923517,Low,Advanced Topics,Advanced Practice,5.917912921170058
+10278,52.729158900965665,Medium,Advanced Topics,Advanced Practice,2.870617941531548,52.786902141245655,Medium,Advanced Topics,Advanced Practice,2.8622425982221915
+10281,57.48877008383867,Medium,Advanced Topics,Advanced Practice,3.5290185148944695,57.57840167767583,Medium,Advanced Topics,Advanced Practice,3.526282980266816
+10282,60.83663384381433,Medium,Problem Solving,Practice Questions,3.92019239028455,61.096111648266806,Medium,Problem Solving,Practice Questions,3.92019239028455
+10290,64.08743265393005,Medium,Advanced Topics,Advanced Practice,3.227924100817563,64.15918865043396,Medium,Advanced Topics,Advanced Practice,3.2175162833429787
+10293,69.22245334483635,Low,Advanced Topics,Advanced Practice,3.768492543431824,69.36522184892127,Low,Advanced Topics,Advanced Practice,3.7477847475118775
+10295,79.27256501524063,Low,Critical Thinking,Critical Thinking Activity,4.084342964119569,79.2576580743508,Low,Application Skills,Application Exercise,4.0809580090674205
+10297,72.45812691257547,Low,Advanced Topics,Advanced Practice,4.457962642992782,72.63337879843968,Low,Advanced Topics,Advanced Practice,4.4325433090134645
+10299,66.68491245447942,Medium,Advanced Topics,Advanced Practice,3.0449143092575772,66.77198843279771,Medium,Advanced Topics,Application Exercise,3.0360928018976185
+10300,108.39172082772454,Low,Critical Thinking,Critical Thinking Activity,6.77545479032604,108.21953494925461,Low,Conceptual Understanding,Concept Review,6.783315480765699
+10308,63.82214364651335,Low,Critical Thinking,Critical Thinking Activity,3.02555711227077,63.71169969570988,Low,Critical Thinking,Critical Thinking Activity,3.0305991384573163
+10310,75.86501688488656,Low,Conceptual Understanding,Concept Review,4.271230147397818,75.83670118612272,Low,Conceptual Understanding,Concept Review,4.294072013909762
+10311,72.5840744587816,Low,Conceptual Understanding,Concept Review,3.824714366644172,72.70431509776087,Low,Application Skills,Application Exercise,3.8388433103294073
+10313,70.54581794206297,Low,Conceptual Understanding,Concept Review,5.3177985843025,70.80870741712191,Low,Advanced Topics,Advanced Practice,5.329348187945934
+10315,42.98373856001999,Medium,Advanced Topics,Advanced Practice,1.2043814335563958,42.99319626116527,Medium,Advanced Topics,Advanced Practice,1.2030096453847428
+10319,66.8108390854301,Low,Application Skills,Application Exercise,2.7404993901023795,66.93381767853973,Low,Application Skills,Application Exercise,2.7404993901023795
+10320,92.26997389912589,Low,Conceptual Understanding,Concept Review,5.4716079131934805,92.33818009267809,Low,Application Skills,Application Exercise,5.492377237501431
+10322,85.35449469289968,Low,Problem Solving,Practice Questions,4.777003523377642,85.74676559852635,Low,Problem Solving,Practice Questions,4.777003523377642
+10328,60.6986163344393,Medium,Advanced Topics,Advanced Practice,2.539664610425734,60.73927400827235,Medium,Advanced Topics,Application Exercise,2.533767435711247
+10329,70.16979462913206,Low,Application Skills,Application Exercise,3.647671759154533,70.33859738124927,Low,Application Skills,Application Exercise,3.647671759154533
+10333,75.83270544286535,Low,Advanced Topics,Critical Thinking Activity,4.519093205952322,75.7727168900099,Low,Advanced Topics,Advanced Practice,4.514565192556247
+10347,70.60817479514665,Low,Advanced Topics,Advanced Practice,4.083358807956366,70.74360596596931,Low,Advanced Topics,Advanced Practice,4.063715252365652
+10352,30.326835493751126,High,Advanced Topics,Guided Review,1.5551459137715469,30.343406289829254,High,Advanced Topics,Guided Review,1.5527424098221547
+10356,75.24286849326258,Low,Conceptual Understanding,Concept Review,4.127371168201244,75.34571892784908,Low,Advanced Topics,Advanced Practice,4.13567899664228
+10362,68.68451383175217,Low,Problem Solving,Practice Questions,2.4812221607546485,68.75950418452484,Low,Problem Solving,Practice Questions,2.4812221607546485
+10364,53.734718356234914,Medium,Advanced Topics,Advanced Practice,3.383144125485012,53.79940412252849,Medium,Advanced Topics,Advanced Practice,3.373761806493029
+10366,74.36282873870084,Low,Conceptual Understanding,Concept Review,5.253585509904677,74.54702885512502,Low,Application Skills,Critical Thinking Activity,5.303496193443671
+10371,74.41708637513132,Low,Advanced Topics,Advanced Practice,3.6538731392168824,74.51982833558105,Low,Advanced Topics,Advanced Practice,3.638112277138479
+10372,51.6474191183381,Medium,Problem Solving,Practice Questions,1.9360303243190669,51.678926084637254,Medium,Problem Solving,Practice Questions,1.9360303243190669
+10378,96.82575339980053,Low,Critical Thinking,Critical Thinking Activity,4.522088251530468,96.55539169339727,Low,Critical Thinking,Critical Thinking Activity,4.534430899485451
+10383,85.08797402451574,Low,Advanced Topics,Advanced Practice,5.984780419808431,85.16006526285815,Low,Problem Solving,Practice Questions,5.973369098199528
+10409,71.64842380206943,Low,Advanced Topics,Advanced Practice,2.6461797774219784,71.65724578735013,Low,Advanced Topics,Advanced Practice,2.642321109226519
+10412,50.149937452536314,Medium,Advanced Topics,Advanced Practice,2.738753981459798,50.22649582088003,Medium,Problem Solving,Practice Questions,2.732008181591733
+10426,51.5045945161834,Medium,Advanced Topics,Advanced Practice,2.101554503356897,51.538369234606094,Medium,Advanced Topics,Advanced Practice,2.0966556639326583
+10430,63.692313981027446,Medium,Critical Thinking,Critical Thinking Activity,3.956207826508945,63.479889675512034,Medium,Critical Thinking,Critical Thinking Activity,3.9659054958088564
+10433,82.03450757811397,Low,Critical Thinking,Critical Thinking Activity,5.781269299667516,81.74241212893548,Low,Critical Thinking,Critical Thinking Activity,5.798854582983072
+10437,68.13235475130247,Low,Application Skills,Application Exercise,3.5972101674442074,68.27396026350831,Low,Application Skills,Application Exercise,3.5972101674442074
+10440,93.02196631873704,Low,Problem Solving,Practice Questions,6.002423289673294,93.18113220834783,Low,Conceptual Understanding,Concept Review,6.0086880267339176
+10446,71.17478349559445,Low,Problem Solving,Practice Questions,4.0271140144101185,71.3889735823687,Low,Advanced Topics,Advanced Practice,4.023432149132923
+10452,80.69605304930323,Low,Conceptual Understanding,Concept Review,5.340041059427659,80.69693468550196,Low,Critical Thinking,Critical Thinking Activity,5.374025642340864
+10463,61.76300365080093,Medium,Advanced Topics,Advanced Practice,4.023055623298723,61.91930506134626,Medium,Application Skills,Application Exercise,4.012786672651732
+10480,98.80390566931081,Low,Conceptual Understanding,Concept Review,5.805397495363804,98.80390566931081,Low,Conceptual Understanding,Concept Review,5.805397495363804
+10487,48.85915469507434,Medium,Problem Solving,Practice Questions,3.06779054374536,49.036200494415866,Medium,Problem Solving,Practice Questions,3.06779054374536
+10494,62.93814030750467,Medium,Advanced Topics,Advanced Practice,4.231075816132468,63.07976235846828,Medium,Problem Solving,Practice Questions,4.215360910010893
+10495,29.445573571874682,High,Advanced Topics,Advanced Practice,1.3869489071942587,29.46207937548634,High,Advanced Topics,Advanced Practice,1.3845548300490527
+10500,78.35894380515533,Low,Advanced Topics,Advanced Practice,4.013197386622896,78.4698601186595,Low,Advanced Topics,Advanced Practice,3.9971095779079517
+10514,44.23509380986338,Medium,Application Skills,Application Exercise,2.952505760633601,44.26307568908738,Medium,Advanced Topics,Application Exercise,2.951207530168305
+10522,46.06387425247432,Medium,Problem Solving,Practice Questions,0.7791724716905271,46.06387425247432,Medium,Problem Solving,Practice Questions,0.7791724716905271
+10523,73.59964140568101,Low,Application Skills,Application Exercise,3.8990945266919765,73.76367577418395,Low,Application Skills,Application Exercise,3.8990945266919765
+10527,86.10857676067735,Low,Conceptual Understanding,Concept Review,4.753410680190739,86.12169847626345,Low,Critical Thinking,Critical Thinking Activity,4.786919219264181
+10528,64.52776779599289,Medium,Application Skills,Application Exercise,4.2629859962548755,64.67739994949694,Medium,Application Skills,Advanced Practice,4.261914694929507
+10529,77.24100401379343,Low,Advanced Topics,Advanced Practice,4.574227228832361,77.31329517101115,Low,Advanced Topics,Advanced Practice,4.5603313790339515
+10530,68.40990595533178,Low,Application Skills,Application Exercise,3.1289109876187076,68.51771953044101,Low,Advanced Topics,Advanced Practice,3.1289109876187076
+10535,69.36379552737529,Low,Problem Solving,Practice Questions,5.05928472893088,69.49196703824933,Low,Problem Solving,Practice Questions,5.065971183683879
+10543,78.69741406140234,Low,Advanced Topics,Advanced Practice,5.096336782605172,78.92147284561582,Low,Advanced Topics,Advanced Practice,5.063838273166391
+10544,68.89105881657643,Low,Application Skills,Application Exercise,2.8471969117804394,68.98830972785639,Low,Application Skills,Application Exercise,2.8471969117804394
+10549,67.2040755035836,Medium,Advanced Topics,Advanced Practice,3.216101892579765,67.2675679816199,Medium,Advanced Topics,Advanced Practice,3.2068926535668965
+10550,55.509277179235234,Medium,Advanced Topics,Advanced Practice,2.2346959788683423,55.54994440523966,Medium,Problem Solving,Practice Questions,2.2294342051298863
+10555,85.64833249912196,Low,Application Skills,Application Exercise,4.388549457616028,85.75345233891434,Low,Critical Thinking,Critical Thinking Activity,4.3906233917857955
+10560,43.754364677558115,Medium,Advanced Topics,Advanced Practice,1.9494638898783252,43.78072037510313,Medium,Advanced Topics,Advanced Practice,1.9456411391281643
+10571,60.84211525122624,Medium,Critical Thinking,Critical Thinking Activity,3.0829907765526454,60.79496474383785,Medium,Advanced Topics,Advanced Practice,3.0834561057283016
+10579,61.14056735916209,Medium,Application Skills,Application Exercise,3.1001019298948425,61.230955264125534,Medium,Application Skills,Advanced Practice,3.0955184412059062
+10584,71.598212257614,Low,Problem Solving,Practice Questions,3.652329367204233,71.77083987229027,Low,Problem Solving,Advanced Practice,3.6495166441951055
+10585,81.11721532535725,Low,Advanced Topics,Advanced Practice,4.774372386687414,81.20234490741197,Low,Advanced Topics,Advanced Practice,4.756763373654135
+10590,85.85068523099673,Low,Problem Solving,Practice Questions,3.9192834397090635,86.15405379458848,Low,Critical Thinking,Critical Thinking Activity,3.9192834397090635
+10591,68.97400809756071,Medium,Advanced Topics,Advanced Practice,5.859947894801635,69.26829722879171,Medium,Application Skills,Concept Review,5.833337591983778
+10596,77.20203283527766,Low,Advanced Topics,Advanced Practice,5.448782742827332,77.45847925762985,Low,Advanced Topics,Advanced Practice,5.411586582424116
+10600,36.369070903358434,Medium,Advanced Topics,Advanced Practice,1.1575161544445223,36.38133269027822,Medium,Advanced Topics,Advanced Practice,1.1557376488646236
+10602,37.1081582305796,Medium,Advanced Topics,Advanced Practice,0.5780477084152684,37.11147304386399,Medium,Advanced Topics,Advanced Practice,0.5775669127562693
+10605,74.53999329486473,Low,Application Skills,Application Exercise,3.847363390660415,74.65693660074564,Low,Problem Solving,Practice Questions,3.8502630385542456
+10614,68.96300197566012,Low,Advanced Topics,Advanced Practice,2.9003577344888,69.0269351826889,Low,Advanced Topics,Advanced Practice,2.8910845701298564
+10618,80.1848979010775,Low,Application Skills,Application Exercise,2.638783398351885,80.29670410619515,Low,Application Skills,Application Exercise,2.638783398351885
+10622,57.50977509222176,Medium,Critical Thinking,Critical Thinking Activity,2.689588606666044,57.40578455123741,Medium,Critical Thinking,Critical Thinking Activity,2.6943360195119435
+10627,90.98657816684255,Low,Conceptual Understanding,Concept Review,4.564894095782291,90.98657816684255,Low,Conceptual Understanding,Concept Review,4.564894095782291
+10636,54.93705128276716,Medium,Advanced Topics,Advanced Practice,4.238321783033742,55.06020252126523,Medium,Application Skills,Application Exercise,4.221354266958901
+10637,46.94041469322492,Medium,Critical Thinking,Critical Thinking Activity,2.1183557074839166,46.89476885412646,Medium,Critical Thinking,Critical Thinking Activity,2.1202921673205446
+10644,85.25660295156553,Low,Advanced Topics,Advanced Practice,5.583009388183914,85.44124171889662,Low,Advanced Topics,Advanced Practice,5.552385859553091
+10645,55.505822943754644,Medium,Problem Solving,Practice Questions,1.2860898281446436,55.5242904423221,Medium,Problem Solving,Practice Questions,1.2860898281446436
+10650,63.39955727426759,Medium,Advanced Topics,Advanced Practice,2.236156277571302,63.42437284705107,Medium,Advanced Topics,Advanced Practice,2.231982564767111
+10651,77.40583284251666,Low,Problem Solving,Practice Questions,3.434919804139411,77.61487028559165,Low,Problem Solving,Practice Questions,3.434919804139411
+10653,85.07671518028066,Low,Application Skills,Application Exercise,5.381195164843867,85.2737788780963,Low,Application Skills,Application Exercise,5.375798342828022
+10657,77.06893570036357,Low,Critical Thinking,Critical Thinking Activity,4.100024402701265,76.88866049525315,Low,Conceptual Understanding,Concept Review,4.1121542318238316
+10661,50.00333811831857,Medium,Problem Solving,Practice Questions,2.53074432350459,50.07100286614372,Medium,Advanced Topics,Practice Questions,2.52790905151782
+10663,90.80248512134726,Low,Critical Thinking,Critical Thinking Activity,4.5192057825342085,90.49808942225278,Low,Critical Thinking,Critical Thinking Activity,4.533102162324512
+10669,81.69671328887304,Low,Advanced Topics,Advanced Practice,4.630208812168865,81.65318757905798,Low,Advanced Topics,Advanced Practice,4.623659818348797
+10671,62.92785232032248,Medium,Application Skills,Application Exercise,3.246279218207525,63.06306396523661,Medium,Application Skills,Application Exercise,3.2522640905921034
+10678,70.44024065996976,Low,Critical Thinking,Critical Thinking Activity,2.6871861682518774,70.38338799812819,Low,Problem Solving,Practice Questions,2.691193672796952
+10679,45.19887829441485,Medium,Application Skills,Application Exercise,1.9068501639822413,45.239515058454245,Medium,Advanced Topics,Advanced Practice,1.9053795010852892
+10680,80.98147322544017,Low,Conceptual Understanding,Concept Review,4.820493638387127,81.03129847812218,Low,Conceptual Understanding,Concept Review,4.854378283475165
+10688,86.73530544289702,Low,Critical Thinking,Critical Thinking Activity,5.19499161816433,86.37824091982597,Low,Critical Thinking,Critical Thinking Activity,5.21129245367876
+10690,83.62442539617632,Low,Advanced Topics,Advanced Practice,4.820135439666231,83.82669494629229,Low,Application Skills,Application Exercise,4.792949820275522
+10693,71.49456402481981,Low,Critical Thinking,Critical Thinking Activity,4.784726694918406,71.40994686616939,Low,Critical Thinking,Application Exercise,4.793744624443333
+10698,74.76401932473529,Low,Conceptual Understanding,Concept Review,3.5197636591774404,74.75817228391868,Low,Application Skills,Critical Thinking Activity,3.534207395115449
+10714,58.17812342488472,Medium,Conceptual Understanding,Concept Review,2.137526378454837,58.19956401744015,Medium,Conceptual Understanding,Concept Review,2.144055208124796
+10715,51.291783981523025,Medium,Conceptual Understanding,Concept Review,2.9948675108971283,51.37238025191731,Medium,Advanced Topics,Application Exercise,3.0029363794273842
+10717,100.66062487003987,Low,Conceptual Understanding,Concept Review,6.511328880250151,100.66062487003987,Low,Conceptual Understanding,Concept Review,6.511328880250151
+10722,66.97123421181084,Medium,Advanced Topics,Advanced Practice,4.653150434633875,67.28096791623982,Medium,Problem Solving,Practice Questions,4.6378447492286075
+10738,85.29878879400547,Low,Critical Thinking,Critical Thinking Activity,4.993376292534138,85.18044535584008,Low,Application Skills,Concept Review,4.997796749167814
+10741,35.52220880674135,High,Advanced Topics,Advanced Practice,1.6523631498692373,35.531787237082625,High,Advanced Topics,Advanced Practice,1.650973850583572
+10742,68.06391600775977,Low,Advanced Topics,Advanced Practice,4.588201558170715,68.11153635280783,Low,Advanced Topics,Advanced Practice,4.573067868211947
+10750,95.29874627909558,Low,Conceptual Understanding,Concept Review,5.382268563969849,95.29874627909558,Low,Conceptual Understanding,Concept Review,5.382268563969849
+10754,63.240107355296175,Medium,Application Skills,Application Exercise,2.6259900764483315,63.341376141982856,Medium,Application Skills,Application Exercise,2.6259900764483315
+10762,36.5327800540565,Medium,Advanced Topics,Advanced Practice,2.0614309080015465,36.57411806275195,Medium,Advanced Topics,Advanced Practice,2.055435054411226
+10765,52.950952145066296,Medium,Application Skills,Application Exercise,2.8325998057124857,53.05536520810101,Medium,Application Skills,Application Exercise,2.8325998057124857
+10768,53.71234457467573,Medium,Advanced Topics,Advanced Practice,4.398617150431684,53.82689894996532,Medium,Critical Thinking,Critical Thinking Activity,4.397401947900676
+10788,86.47183260474702,Low,Problem Solving,Practice Questions,4.0695653159565035,86.79629476067623,Low,Problem Solving,Practice Questions,4.0695653159565035
+10801,76.14338037931113,Low,Problem Solving,Practice Questions,3.800887180197734,76.31928807180195,Low,Application Skills,Application Exercise,3.808655225709122
+10803,99.48594853429978,Low,Conceptual Understanding,Concept Review,5.370773753310041,99.48594853429978,Low,Conceptual Understanding,Concept Review,5.370773753310041
+10811,73.11328909955839,Low,Problem Solving,Practice Questions,3.8723800708500247,73.30011457156907,Low,Advanced Topics,Advanced Practice,3.865946360380582
+10812,68.19125785600707,Low,Advanced Topics,Advanced Practice,4.544233640784577,68.3445143365653,Low,Advanced Topics,Advanced Practice,4.522004620853671
+10817,88.27462959723341,Low,Application Skills,Concept Review,3.6320838343235726,88.27462959723341,Low,Application Skills,Concept Review,3.6320838343235726
+10821,79.80620855808729,Low,Conceptual Understanding,Concept Review,4.185776151924011,79.79577414887385,Low,Conceptual Understanding,Concept Review,4.212005662214157
+10823,41.75631085281665,Medium,Problem Solving,Guided Review,2.1349421279257874,41.8094159400543,Medium,Problem Solving,Guided Review,2.134193175222646
+10824,40.7186080901693,Medium,Problem Solving,Practice Questions,1.6408532280664132,40.7556336088863,Medium,Problem Solving,Practice Questions,1.6408532280664132
+10827,81.15193963175814,Low,Advanced Topics,Advanced Practice,5.409115426947667,81.35350557823544,Low,Advanced Topics,Advanced Practice,5.379879381428969
+10830,81.73075536747821,Low,Advanced Topics,Advanced Practice,4.388091410974349,81.89345666142404,Low,Advanced Topics,Advanced Practice,4.364492472171027
+10838,64.72884266928963,Medium,Conceptual Understanding,Concept Review,3.174870044473913,64.79003629504778,Medium,Conceptual Understanding,Concept Review,3.193503986536342
+10846,66.5705645117307,Medium,Problem Solving,Practice Questions,3.555260669706923,66.71137549596712,Medium,Critical Thinking,Critical Thinking Activity,3.5613717705592443
+10850,48.79861776723304,Medium,Conceptual Understanding,Concept Review,2.3472224952784257,48.82661632771888,Medium,Advanced Topics,Concept Review,2.3512940833483054
+10860,98.23811385268056,Low,Conceptual Understanding,Concept Review,6.034688430708864,98.23811385268056,Low,Conceptual Understanding,Concept Review,6.034688430708864
+10866,104.12216413782772,Low,Conceptual Understanding,Concept Review,6.1325647464936806,104.12216413782772,Low,Conceptual Understanding,Concept Review,6.1325647464936806
+10867,81.40875928956409,Low,Conceptual Understanding,Concept Review,5.272890156623015,81.51359210470147,Low,Application Skills,Advanced Practice,5.299577954519574
+10868,89.94732349302228,Low,Application Skills,Application Exercise,5.957077279903812,90.3519349943435,Low,Critical Thinking,Critical Thinking Activity,5.960906230358109
+10880,63.52718395099554,Medium,Advanced Topics,Advanced Practice,4.247963569536147,63.66306202737921,Medium,Advanced Topics,Advanced Practice,4.2282551927216465
+10884,96.90105582409483,Low,Critical Thinking,Critical Thinking Activity,5.380858459077593,96.80298636017697,Low,Conceptual Understanding,Concept Review,5.385335560825377
+10885,56.51415114750427,Medium,Critical Thinking,Critical Thinking Activity,3.3366556391703233,56.41896617048299,Medium,Advanced Topics,Advanced Practice,3.340656330682466
+10893,62.835290222438395,Medium,Problem Solving,Practice Questions,3.7790393653222303,63.0683704478052,Medium,Problem Solving,Practice Questions,3.7790393653222303
+10894,46.441751379731336,Medium,Advanced Topics,Advanced Practice,1.926320780274571,46.458078209684025,Medium,Advanced Topics,Advanced Practice,1.9239526622863146
+10900,100.82344553155562,Low,Critical Thinking,Critical Thinking Activity,6.485938974568487,100.67709792724179,Low,Conceptual Understanding,Concept Review,6.492620087005345
+10902,85.49373577591692,Low,Critical Thinking,Critical Thinking Activity,4.949969112779241,85.46717971798321,Low,Application Skills,Application Exercise,4.9574038560121565
+10903,44.65363867803282,Medium,Advanced Topics,Advanced Practice,1.57411609469419,44.68148342120337,Medium,Advanced Topics,Advanced Practice,1.5700773659653646
+10915,74.17225714267327,Low,Advanced Topics,Advanced Practice,3.82411114164747,74.25845518998982,Low,Advanced Topics,Advanced Practice,3.81160858315973
+10918,38.17505649727628,High,Application Skills,Application Exercise,1.8917151855780479,38.22129112584867,High,Application Skills,Application Exercise,1.8917151855780479
+10925,73.89739254380186,Low,Application Skills,Application Exercise,2.717052478843144,74.01060993773427,Low,Application Skills,Application Exercise,2.717052478843144
+10937,74.08831634502006,Low,Application Skills,Application Exercise,4.930273991975931,74.38210623926686,Low,Conceptual Understanding,Concept Review,4.924487961086958
+10939,101.57599107909621,Low,Conceptual Understanding,Concept Review,5.80795881648581,101.57599107909621,Low,Conceptual Understanding,Concept Review,5.80795881648581
+10942,55.952376228800816,Medium,Advanced Topics,Advanced Practice,3.5385206337433464,56.04599527371638,Medium,Advanced Topics,Advanced Practice,3.5249416998688363
+10943,57.60649769856592,Medium,Application Skills,Application Exercise,2.623517398093341,57.70924785756793,Medium,Application Skills,Application Exercise,2.623517398093341
+10948,49.78227043041247,Medium,Advanced Topics,Advanced Practice,2.676135768460579,49.84092823357503,Medium,Advanced Topics,Advanced Practice,2.6676277727735176
+10949,92.04297717012817,Low,Conceptual Understanding,Concept Review,4.710313379453502,92.05120895210861,Low,Conceptual Understanding,Concept Review,4.712820022042393
+10960,67.98941389832869,Low,Conceptual Understanding,Concept Review,3.2349114736613225,68.05600068676203,Low,Conceptual Understanding,Concept Review,3.2551876763281458
+10974,72.06252221849262,Low,Advanced Topics,Advanced Practice,4.343242256066372,72.20036891780904,Low,Advanced Topics,Advanced Practice,4.323248341190126
+10975,59.18994728411674,Medium,Application Skills,Application Exercise,3.7813525242192974,59.355662301396066,Medium,Advanced Topics,Application Exercise,3.779678941203981
+10978,65.36543690548999,Medium,Advanced Topics,Advanced Practice,3.8756414206603975,65.49686675468573,Medium,Advanced Topics,Advanced Practice,3.8565782350342723
+10979,44.60033586823364,Medium,Advanced Topics,Advanced Practice,2.5113844924170747,44.64569757020867,Medium,Advanced Topics,Advanced Practice,2.5048050239754804
+10986,74.86829430512068,Low,Problem Solving,Practice Questions,3.4775910617235612,75.0028841888818,Low,Problem Solving,Practice Questions,3.4775910617235612
+10987,93.91142789818784,Low,Critical Thinking,Critical Thinking Activity,6.1152747911775664,93.5620377521369,Low,Conceptual Understanding,Concept Review,6.133379199193349
+10990,56.23899845708799,Medium,Advanced Topics,Advanced Practice,3.296494402468048,56.34905802579243,Medium,Problem Solving,Practice Questions,3.284489287695608
+10996,78.73797977160702,Low,Conceptual Understanding,Concept Review,4.100166043145005,78.8459224872985,Low,Conceptual Understanding,Concept Review,4.119215536661708
+10999,89.30597887675813,Low,Critical Thinking,Critical Thinking Activity,5.54078765704784,88.86520997307777,Low,Critical Thinking,Critical Thinking Activity,5.560909794461473

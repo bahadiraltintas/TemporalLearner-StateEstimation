@@ -1,0 +1,2 @@
+eligible_actions,training_observations,evaluated_candidate_pairs,minmax_outside_pct,nn95_outside_pct,definition
+5,798,1000,24.6,12.7,NN-outside = candidate-state nearest-neighbour distance exceeds the 95th percentile of leave-one-out training NN distance within the same action.

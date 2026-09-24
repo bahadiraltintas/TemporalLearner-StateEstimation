@@ -1,0 +1,2 @@
+weakest_topic_exact_argmin_match,recommendation_is_synthetic_rule_target,interpretation
+True,True,Topic and recommendation results reconstruct the synthetic data-generating structure; they are not empirical pedagogical validation.

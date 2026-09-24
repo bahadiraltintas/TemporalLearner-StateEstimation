@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and the versioned repository release."
+title: "Adaptive AI Framework: Computational Proof-of-Concept"
+authors:
+  - family-names: Altintas
+    given-names: Bahadir
+    orcid: ""
+version: "1.1.0"
+date-released: "2026-09-24"
+repository-code: "https://github.com/REPLACE_WITH_USERNAME/REPLACE_WITH_REPOSITORY"
+license: "MIT"
+keywords:
+  - adaptive artificial intelligence
+  - learner state
+  - learning analytics
+  - personalized learning
+  - educational data mining
+  - computational proof-of-concept
